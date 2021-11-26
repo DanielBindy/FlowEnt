@@ -24,12 +24,33 @@
 */
 var NAVTREE =
 [
-  [ "FlowEnt", "index.html", ]
+  [ "FlowEnt", "index.html", [
+    [ "Packages", "namespaces.html", [
+      [ "Packages", "namespaces.html", "namespaces_dup" ],
+      [ "Package Functions", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Enumerations", "namespacemembers_enum.html", null ]
+      ] ]
+    ] ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
+        [ "Properties", "functions_prop.html", null ]
+      ] ]
+    ] ]
+  ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+"annotated.html",
+"class_fried_synapse_1_1_flow_ent_1_1_flow.html#af98a9cd851b3399872b3e4f29423330e",
+"class_fried_synapse_1_1_flow_ent_1_1_tween.html#a84f7b1d02983aac9fa2b7efbc688c7eb",
+"namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06afa3017a8e690c168c1c1ae13360e65df"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
