@@ -27,11 +27,13 @@ var searchData=
   ['alphamotion_24',['AlphaMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_alpha_motion.html',1,'FriedSynapse.FlowEnt.Motions.Renderers.AlphaMotion&lt; TRenderer &gt;'],['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_canvas_groups_1_1_alpha_motion.html',1,'FriedSynapse.FlowEnt.Motions.UI.CanvasGroups.AlphaMotion'],['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_graphics_1_1_alpha_motion.html',1,'FriedSynapse.FlowEnt.Motions.UI.Graphics.AlphaMotion&lt; TGraphic &gt;']]],
   ['alphatomotion_25',['AlphaToMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_alpha_to_motion.html',1,'FriedSynapse.FlowEnt.Motions.Renderers.AlphaToMotion&lt; TRenderer &gt;'],['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_canvas_groups_1_1_alpha_to_motion.html',1,'FriedSynapse.FlowEnt.Motions.UI.CanvasGroups.AlphaToMotion'],['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_graphics_1_1_alpha_to_motion.html',1,'FriedSynapse.FlowEnt.Motions.UI.Graphics.AlphaToMotion&lt; TGraphic &gt;']]],
   ['anchorpresetdata_26',['AnchorPresetData',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_data.html',1,'FriedSynapse::FlowEnt::Motions::UI::RectTransforms']]],
-  ['animationawaiter_27',['AnimationAwaiter',['../class_fried_synapse_1_1_flow_ent_1_1_animation_awaiter.html',1,'FriedSynapse::FlowEnt']]],
-  ['animationcurve2d_28',['AnimationCurve2d',['../class_fried_synapse_1_1_flow_ent_1_1_animation_curve2d.html',1,'FriedSynapse::FlowEnt']]],
-  ['animationcurve3d_29',['AnimationCurve3d',['../class_fried_synapse_1_1_flow_ent_1_1_animation_curve3d.html',1,'FriedSynapse::FlowEnt']]],
-  ['animationcurveeasing_30',['AnimationCurveEasing',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_animation_curve_easing.html',1,'FriedSynapse::FlowEnt::Easings']]],
-  ['animationexception_31',['AnimationException',['../class_fried_synapse_1_1_flow_ent_1_1_animation_exception.html',1,'FriedSynapse::FlowEnt']]],
-  ['autostarthelper_32',['AutoStartHelper',['../class_fried_synapse_1_1_flow_ent_1_1_auto_start_helper.html',1,'FriedSynapse::FlowEnt']]],
-  ['awaitableanimation_33',['AwaitableAnimation',['../class_fried_synapse_1_1_flow_ent_1_1_awaitable_animation.html',1,'FriedSynapse::FlowEnt']]]
+  ['anchorpresetfactory_27',['AnchorPresetFactory',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_factory.html',1,'FriedSynapse::FlowEnt::Motions::UI::RectTransforms']]],
+  ['animationawaiter_28',['AnimationAwaiter',['../class_fried_synapse_1_1_flow_ent_1_1_animation_awaiter.html',1,'FriedSynapse::FlowEnt']]],
+  ['animationcurve2d_29',['AnimationCurve2d',['../class_fried_synapse_1_1_flow_ent_1_1_animation_curve2d.html',1,'FriedSynapse::FlowEnt']]],
+  ['animationcurve3d_30',['AnimationCurve3d',['../class_fried_synapse_1_1_flow_ent_1_1_animation_curve3d.html',1,'FriedSynapse::FlowEnt']]],
+  ['animationcurveeasing_31',['AnimationCurveEasing',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_animation_curve_easing.html',1,'FriedSynapse::FlowEnt::Easings']]],
+  ['animationexception_32',['AnimationException',['../class_fried_synapse_1_1_flow_ent_1_1_animation_exception.html',1,'FriedSynapse::FlowEnt']]],
+  ['audiomotionextensions_33',['AudioMotionExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_audio_motion_extensions.html',1,'FriedSynapse::FlowEnt']]],
+  ['autostarthelper_34',['AutoStartHelper',['../class_fried_synapse_1_1_flow_ent_1_1_auto_start_helper.html',1,'FriedSynapse::FlowEnt']]],
+  ['awaitableanimation_35',['AwaitableAnimation',['../class_fried_synapse_1_1_flow_ent_1_1_awaitable_animation.html',1,'FriedSynapse::FlowEnt']]]
 ];

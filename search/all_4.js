@@ -30,5 +30,7 @@ var searchData=
   ['easeoutquart_27',['EaseOutQuart',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_quart.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['easeoutquint_28',['EaseOutQuint',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_quint.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['easeoutsine_29',['EaseOutSine',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_sine.html',1,'FriedSynapse::FlowEnt::Easings']]],
-  ['easing_30',['Easing',['../class_fried_synapse_1_1_flow_ent_1_1_tween_options.html#a6713a78f01de45fbe5a4055c605d2533',1,'FriedSynapse.FlowEnt.TweenOptions.Easing()'],['../namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06',1,'FriedSynapse.FlowEnt.Easing()']]]
+  ['easing_30',['Easing',['../class_fried_synapse_1_1_flow_ent_1_1_tween_options.html#a6713a78f01de45fbe5a4055c605d2533',1,'FriedSynapse.FlowEnt.TweenOptions.Easing()'],['../namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06',1,'FriedSynapse.FlowEnt.Easing()']]],
+  ['easingextensions_31',['EasingExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_extensions.html',1,'FriedSynapse::FlowEnt::Easings']]],
+  ['easingfactory_32',['EasingFactory',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_factory.html',1,'FriedSynapse::FlowEnt::Easings']]]
 ];

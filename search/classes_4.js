@@ -29,5 +29,7 @@ var searchData=
   ['easeoutquad_26',['EaseOutQuad',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_quad.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['easeoutquart_27',['EaseOutQuart',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_quart.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['easeoutquint_28',['EaseOutQuint',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_quint.html',1,'FriedSynapse::FlowEnt::Easings']]],
-  ['easeoutsine_29',['EaseOutSine',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_sine.html',1,'FriedSynapse::FlowEnt::Easings']]]
+  ['easeoutsine_29',['EaseOutSine',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_sine.html',1,'FriedSynapse::FlowEnt::Easings']]],
+  ['easingextensions_30',['EasingExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_extensions.html',1,'FriedSynapse::FlowEnt::Easings']]],
+  ['easingfactory_31',['EasingFactory',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_factory.html',1,'FriedSynapse::FlowEnt::Easings']]]
 ];

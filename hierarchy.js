@@ -56,10 +56,16 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Values.Vector4ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_vector4_value_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.UI.RectTransforms.AnchorPresetData", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_data.html", null ],
+    [ "FriedSynapse.FlowEnt.Motions.UI.RectTransforms.AnchorPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_factory.html", null ],
     [ "FriedSynapse.FlowEnt.AnimationCurve2d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve2d.html", [
       [ "FriedSynapse.FlowEnt.AnimationCurve3d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve3d.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.AudioMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_audio_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.AwaitableAnimation", "class_fried_synapse_1_1_flow_ent_1_1_awaitable_animation.html", null ],
+    [ "FriedSynapse.FlowEnt.CanvasGroupMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.CommonExtensions", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.Easings.EasingExtensions", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.Easings.EasingFactory", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_factory.html", null ],
     [ "Exception", null, [
       [ "FriedSynapse.FlowEnt.AnimationException", "class_fried_synapse_1_1_flow_ent_1_1_animation_exception.html", [
         [ "FriedSynapse.FlowEnt.FlowException", "class_fried_synapse_1_1_flow_ent_1_1_flow_exception.html", null ],
@@ -68,6 +74,9 @@ var hierarchy =
     ] ],
     [ "FriedSynapse.FlowEnt.FastList< T, TAnchor >", "class_fried_synapse_1_1_flow_ent_1_1_fast_list.html", null ],
     [ "FriedSynapse.FlowEnt.FastListItem< T >", "class_fried_synapse_1_1_flow_ent_1_1_fast_list_item.html", null ],
+    [ "FriedSynapse.FlowEnt.FlowEntConstants", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_constants.html", null ],
+    [ "FriedSynapse.FlowEnt.FlowEntDebug", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_debug.html", null ],
+    [ "FriedSynapse.FlowEnt.GraphicMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.IControllable", "interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ],
       [ "FriedSynapse.FlowEnt.FlowEntController", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html", null ]
@@ -245,9 +254,16 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", null ],
       [ "FriedSynapse.FlowEnt.FlowEntController", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.LightMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html", null ],
     [ "MonoBehaviour", null, [
       [ "FriedSynapse.FlowEnt.FlowEntController", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.Motions.UI.RectTransforms.PivotPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_pivot_preset_factory.html", null ],
+    [ "FriedSynapse.FlowEnt.RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ],
-    [ "FriedSynapse.FlowEnt.TweenMotionArray< T >", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_array.html", null ]
+    [ "FriedSynapse.FlowEnt.TweenMotionArray< T >", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_array.html", null ],
+    [ "FriedSynapse.FlowEnt.ValueMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html", null ]
 ];
