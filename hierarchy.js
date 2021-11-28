@@ -119,7 +119,8 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Easings.EaseOutQuint", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_quint.html", null ],
       [ "FriedSynapse.FlowEnt.Easings.EaseOutSine", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_out_sine.html", null ],
       [ "FriedSynapse.FlowEnt.Easings.FunctionEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_function_easing.html", null ],
-      [ "FriedSynapse.FlowEnt.Easings.LinearEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_linear_easing.html", null ]
+      [ "FriedSynapse.FlowEnt.Easings.LinearEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_linear_easing.html", null ],
+      [ "FriedSynapse.FlowEnt.Easings.ReverseEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_reverse_easing.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.IFluentFlowEventable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentFlowEventable< Flow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", [
@@ -130,7 +131,6 @@ var hierarchy =
     ] ],
     [ "FriedSynapse.FlowEnt.IFluentFlowOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentFlowOptionable< Flow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", [
-      [ "FriedSynapse.FlowEnt.Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", null ],
       [ "FriedSynapse.FlowEnt.Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.IFluentFlowOptionable< FlowOptions >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", [
