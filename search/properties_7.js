@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['overdraft_0',['OverDraft',['../class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#aaab0a6f64ad76e3d7903ea981c197cee',1,'FriedSynapse::FlowEnt::AbstractAnimation']]]
+  ['name_0',['Name',['../class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#a5ef85a08b4bd3d5d26a21f2105ab6d61',1,'FriedSynapse::FlowEnt::AbstractAnimationOptions']]]
 ];

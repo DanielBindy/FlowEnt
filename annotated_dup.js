@@ -140,6 +140,7 @@ var annotated_dup =
         [ "AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", null ],
         [ "AbstractAnimationEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", null ],
         [ "AbstractAnimationOptions", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options" ],
+        [ "AbstractBuilder", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", null ],
         [ "AbstractFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter" ],
         [ "AbstractMotion", "class_fried_synapse_1_1_flow_ent_1_1_abstract_motion.html", null ],
         [ "AbstractSpline", "class_fried_synapse_1_1_flow_ent_1_1_abstract_spline.html", null ],
@@ -169,8 +170,10 @@ var annotated_dup =
         [ "FlowException", "class_fried_synapse_1_1_flow_ent_1_1_flow_exception.html", "class_fried_synapse_1_1_flow_ent_1_1_flow_exception" ],
         [ "FlowOptions", "class_fried_synapse_1_1_flow_ent_1_1_flow_options.html", "class_fried_synapse_1_1_flow_ent_1_1_flow_options" ],
         [ "GraphicMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions" ],
+        [ "IBuilder", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html", null ],
         [ "IControllable", "interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html", null ],
-        [ "IFluentFlowEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable" ],
+        [ "IFluentAnimationEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable" ],
+        [ "IFluentFlowEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", null ],
         [ "IFluentFlowOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable" ],
         [ "IFluentTweenEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable" ],
         [ "IFluentTweenOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable" ],
@@ -198,6 +201,7 @@ var annotated_dup =
         [ "TweenMotion", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion" ],
         [ "TweenMotionArray", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_array.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_array" ],
         [ "TweenOptions", "class_fried_synapse_1_1_flow_ent_1_1_tween_options.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_options" ],
+        [ "TweenOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_options_builder.html", null ],
         [ "ValueMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions" ]
       ] ]
     ] ]

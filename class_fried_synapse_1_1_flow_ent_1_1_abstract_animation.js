@@ -1,6 +1,10 @@
 var class_fried_synapse_1_1_flow_ent_1_1_abstract_animation =
 [
     [ "AsAsync", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a58241d895df74f2f01a3e8260ff41385", null ],
+    [ "OnCompleted", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#ac1e4dcd5fb23a23f0025aa3ba1eb3456", null ],
+    [ "OnLoopCompleted", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a0770a96749330741c61afe85c3c7906f", null ],
+    [ "OnStarted", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a0132e3f965a7811987f4f170d44dda09", null ],
+    [ "OnUpdated", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#ab7487a7231b7bf0d1fd4aac0b9a8fbec", null ],
     [ "Pause", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a9f4cc8ab172d28329a34f52a4e241742", null ],
     [ "Resume", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a4d6fbad93b6c3a2d9c142aff8b46b0ed", null ],
     [ "SetName", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a8700474817815c0dbf9a34fc1082bc2a", null ],
