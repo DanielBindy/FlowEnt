@@ -139,6 +139,12 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< AbstractAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
+      [ "FriedSynapse.FlowEnt.IFluentTweenOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< AbstractAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.IFluentFlowEventable< Flow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", [
       [ "FriedSynapse.FlowEnt.Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", null ]
     ] ],
@@ -161,7 +167,6 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.IFluentTweenEventable< TweenMotion< T > >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", [
       [ "FriedSynapse.FlowEnt.TweenMotion< T >", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.IFluentTweenOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentTweenOptionable< Tween >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", [
       [ "FriedSynapse.FlowEnt.Tween", "class_fried_synapse_1_1_flow_ent_1_1_tween.html", null ]
     ] ],
