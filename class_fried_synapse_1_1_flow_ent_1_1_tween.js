@@ -2,6 +2,7 @@ var class_fried_synapse_1_1_flow_ent_1_1_tween =
 [
     [ "Tween", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#adcb6c90cf51e21f87af382c8078c44e2", null ],
     [ "Tween", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#adc7ef8aaec915df9d4fb3f9e83e2416f", null ],
+    [ "Apply", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a1208975c0ec734c9e92d4beab57b5770", null ],
     [ "Apply", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a2dea76304249dabaecdfffc94fd24b82", null ],
     [ "For< T >", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a6907a6c7308db33dace939e3a93697b2", null ],
     [ "For< T >", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#aa211fe9f0cb88293c21bad1ded2917b6", null ],
