@@ -192,7 +192,7 @@ var annotated_dup =
         [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
         [ "SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
         [ "TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter" ],
-        [ "TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", null ],
+        [ "TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions" ],
         [ "Tween", "class_fried_synapse_1_1_flow_ent_1_1_tween.html", "class_fried_synapse_1_1_flow_ent_1_1_tween" ],
         [ "TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ],
         [ "TweenEvents", "class_fried_synapse_1_1_flow_ent_1_1_tween_events.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_events" ],
