@@ -137,8 +137,7 @@ var annotated_dup =
           [ "DebugMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_debug_motion.html", null ]
         ] ],
         [ "AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation" ],
-        [ "AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", null ],
-        [ "AbstractAnimationEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", null ],
+        [ "AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events" ],
         [ "AbstractAnimationOptions", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options" ],
         [ "AbstractBuilder", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", null ],
         [ "AbstractFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter" ],

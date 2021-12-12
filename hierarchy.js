@@ -1,14 +1,5 @@
 var hierarchy =
 [
-    [ "FriedSynapse.FlowEnt.AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", [
-      [ "FriedSynapse.FlowEnt.FlowEvents", "class_fried_synapse_1_1_flow_ent_1_1_flow_events.html", null ],
-      [ "FriedSynapse.FlowEnt.TweenEvents", "class_fried_synapse_1_1_flow_ent_1_1_tween_events.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", null ],
-    [ "FriedSynapse.FlowEnt.AbstractAnimationOptions", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html", [
-      [ "FriedSynapse.FlowEnt.FlowOptions", "class_fried_synapse_1_1_flow_ent_1_1_flow_options.html", null ],
-      [ "FriedSynapse.FlowEnt.TweenOptions", "class_fried_synapse_1_1_flow_ent_1_1_tween_options.html", null ]
-    ] ],
     [ "FriedSynapse.FlowEnt.AbstractBuilder< Tween >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
       [ "FriedSynapse.FlowEnt.TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ]
     ] ],
@@ -132,18 +123,37 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Easings.LinearEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_linear_easing.html", null ],
       [ "FriedSynapse.FlowEnt.Easings.ReverseEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_reverse_easing.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
-      [ "FriedSynapse.FlowEnt.IFluentFlowEventable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", null ],
-      [ "FriedSynapse.FlowEnt.IFluentTweenEventable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", null ]
-    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< AbstractAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
-      [ "FriedSynapse.FlowEnt.IFluentTweenOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", null ]
+    [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< AbstractAnimationEvents >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", [
+        [ "FriedSynapse.FlowEnt.FlowEvents", "class_fried_synapse_1_1_flow_ent_1_1_flow_events.html", null ],
+        [ "FriedSynapse.FlowEnt.TweenEvents", "class_fried_synapse_1_1_flow_ent_1_1_tween_events.html", null ]
+      ] ]
     ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< TFLow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
+      [ "FriedSynapse.FlowEnt.IFluentFlowEventable< TFLow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< TTween >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
+      [ "FriedSynapse.FlowEnt.IFluentTweenEventable< TTween >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< TAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< AbstractAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< AbstractAnimationOptions >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimationOptions", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html", [
+        [ "FriedSynapse.FlowEnt.FlowOptions", "class_fried_synapse_1_1_flow_ent_1_1_flow_options.html", null ],
+        [ "FriedSynapse.FlowEnt.TweenOptions", "class_fried_synapse_1_1_flow_ent_1_1_tween_options.html", null ]
+      ] ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< TFlow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
+      [ "FriedSynapse.FlowEnt.IFluentFlowOptionable< TFlow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFluentAnimationOptionable< TTween >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", [
+      [ "FriedSynapse.FlowEnt.IFluentTweenOptionable< TTween >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.IFluentFlowEventable< Flow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", [
       [ "FriedSynapse.FlowEnt.Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", null ]
@@ -151,7 +161,6 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.IFluentFlowEventable< FlowEvents >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", [
       [ "FriedSynapse.FlowEnt.FlowEvents", "class_fried_synapse_1_1_flow_ent_1_1_flow_events.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.IFluentFlowOptionable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentFlowOptionable< Flow >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", [
       [ "FriedSynapse.FlowEnt.Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", null ]
     ] ],

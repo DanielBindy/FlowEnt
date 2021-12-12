@@ -1,6 +1,12 @@
 var class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options =
 [
     [ "AbstractAnimationOptions", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#aa17f9423ed224aaef51e53aca6cd98b1", null ],
+    [ "SetAutoStart", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#a0e8c9d8b0776ffc872544626f552e2bb", null ],
+    [ "SetDelay", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#a1a7768e0ffb5b5322611b0023f44770c", null ],
+    [ "SetLoopCount", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#a4ee1854fcc808e0b0be3dff0e177b57b", null ],
+    [ "SetName", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#ac6818728aeb18d71c686ac7b1daeb16c", null ],
+    [ "SetSkipFrames", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#ad105ee8f6fc0dcc668e2a070232290a1", null ],
+    [ "SetTimeScale", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#afb27640b29ce047809481662875a81e8", null ],
     [ "AutoStart", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#af3fcaa5e4291fb87b9ea87cbfaec4fe7", null ],
     [ "Delay", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#a67587cedd3918188b7adc7ea214c92ae", null ],
     [ "LoopCount", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#abe866eed1868ef1855dc58a172923112", null ],
