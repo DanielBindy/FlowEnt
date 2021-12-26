@@ -45,11 +45,32 @@ var annotated_dup =
           [ "ShakeEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_shake_easing.html", null ]
         ] ],
         [ "Motions", "namespace_fried_synapse_1_1_flow_ent_1_1_motions.html", [
+          [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract.html", [
+            [ "AbstractColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_color_motion.html", null ],
+            [ "AbstractFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_float_motion.html", null ],
+            [ "AbstractGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_gradient_motion.html", null ],
+            [ "AbstractMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_motion.html", null ],
+            [ "AbstractQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_quaternion_motion.html", null ],
+            [ "AbstractRectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_rect_motion.html", null ],
+            [ "AbstractVector2Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector2_motion.html", null ],
+            [ "AbstractVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector3_motion.html", null ],
+            [ "AbstractVector4Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector4_motion.html", null ],
+            [ "IMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html", null ]
+          ] ],
           [ "Audio", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio.html", [
             [ "PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_pitch_motion.html", null ],
             [ "PitchToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_pitch_to_motion.html", null ],
             [ "VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_volume_motion.html", null ],
             [ "VolumeToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_volume_to_motion.html", null ]
+          ] ],
+          [ "Cameras", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras.html", [
+            [ "BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_gradient_motion.html", null ],
+            [ "BackgroundColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_motion.html", null ],
+            [ "FarClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_far_clip_plane_motion.html", null ],
+            [ "FieldOfViewMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_field_of_view_motion.html", null ],
+            [ "NearClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_near_clip_plane_motion.html", null ],
+            [ "OrthographicSizeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_orthographic_size_motion.html", null ],
+            [ "RectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_rect_motion.html", null ]
           ] ],
           [ "Lights", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights.html", [
             [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_motion.html", null ],
@@ -141,8 +162,7 @@ var annotated_dup =
         [ "AbstractAnimationOptions", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options" ],
         [ "AbstractBuilder", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", null ],
         [ "AbstractFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter" ],
-        [ "AbstractMotion", "class_fried_synapse_1_1_flow_ent_1_1_abstract_motion.html", null ],
-        [ "AbstractSpline", "class_fried_synapse_1_1_flow_ent_1_1_abstract_spline.html", null ],
+        [ "AbstractSpline", "class_fried_synapse_1_1_flow_ent_1_1_abstract_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_spline" ],
         [ "AbstractStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_abstract_start_helper.html", null ],
         [ "AnimationAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_animation_awaiter.html", null ],
         [ "AnimationCurve2d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve2d.html", null ],
@@ -154,6 +174,7 @@ var annotated_dup =
         [ "BezierCurve", "class_fried_synapse_1_1_flow_ent_1_1_bezier_curve.html", "class_fried_synapse_1_1_flow_ent_1_1_bezier_curve" ],
         [ "BSpline", "class_fried_synapse_1_1_flow_ent_1_1_b_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_b_spline" ],
         [ "CallbackFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_callback_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_callback_flow_awaiter" ],
+        [ "CameraMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_camera_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_camera_motion_extensions" ],
         [ "CanvasGroupMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions.html", null ],
         [ "CatmullRomSpline", "class_fried_synapse_1_1_flow_ent_1_1_catmull_rom_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_catmull_rom_spline" ],
         [ "CommonExtensions", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions" ],
@@ -177,7 +198,6 @@ var annotated_dup =
         [ "IFluentFlowOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ],
         [ "IFluentTweenEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable" ],
         [ "IFluentTweenOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable" ],
-        [ "IMotion", "interface_fried_synapse_1_1_flow_ent_1_1_i_motion.html", null ],
         [ "ISpline", "interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html", null ],
         [ "ITweenProxy", "interface_fried_synapse_1_1_flow_ent_1_1_i_tween_proxy.html", null ],
         [ "IUpdateController", "interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html", null ],

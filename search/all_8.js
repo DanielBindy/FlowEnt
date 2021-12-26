@@ -27,7 +27,7 @@ var searchData=
   ['ifluenttweenoptionable_3c_20tween_20_3e_24',['IFluentTweenOptionable&lt; Tween &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
   ['ifluenttweenoptionable_3c_20tweenmotion_3c_20t_20_3e_20_3e_25',['IFluentTweenOptionable&lt; TweenMotion&lt; T &gt; &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
   ['ifluenttweenoptionable_3c_20tweenoptions_20_3e_26',['IFluentTweenOptionable&lt; TweenOptions &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
-  ['imotion_27',['IMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_i_motion.html',1,'FriedSynapse::FlowEnt']]],
+  ['imotion_27',['IMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html',1,'FriedSynapse::FlowEnt::Motions::Abstract']]],
   ['instance_28',['Instance',['../class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#adab4e97aa28794d45adca19864af06a5',1,'FriedSynapse::FlowEnt::FlowEntController']]],
   ['intensitymotion_29',['IntensityMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_motion.html',1,'FriedSynapse::FlowEnt::Motions::Lights']]],
   ['intensitytomotion_30',['IntensityToMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_to_motion.html',1,'FriedSynapse::FlowEnt::Motions::Lights']]],
