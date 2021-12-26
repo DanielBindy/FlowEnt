@@ -49,9 +49,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_quint.html",
-"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_alpha_motion.html",
-"class_fried_synapse_1_1_flow_ent_1_1_tween_events.html",
-"namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a51e1906b67f89bfc0e47c85379fe4eec"
+"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_motion.html",
+"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a9ae2f18b2acb1eddb5e5e58308e17b76",
+"class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html#a1914f2fcf198037a209da6f2fad9626f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
