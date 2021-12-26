@@ -1,5 +1,6 @@
 var namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract =
 [
+    [ "AbstractAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_alpha_motion.html", null ],
     [ "AbstractColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_color_motion.html", null ],
     [ "AbstractFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_float_motion.html", null ],
     [ "AbstractGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_gradient_motion.html", null ],
