@@ -29,10 +29,11 @@ var searchData=
   ['ifluenttweenoptionable_3c_20tweenoptions_20_3e_26',['IFluentTweenOptionable&lt; TweenOptions &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
   ['imotion_27',['IMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html',1,'FriedSynapse::FlowEnt::Motions::Abstract']]],
   ['instance_28',['Instance',['../class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#adab4e97aa28794d45adca19864af06a5',1,'FriedSynapse::FlowEnt::FlowEntController']]],
-  ['intensitymotion_29',['IntensityMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_motion.html',1,'FriedSynapse::FlowEnt::Motions::Lights']]],
-  ['intensitytomotion_30',['IntensityToMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_to_motion.html',1,'FriedSynapse::FlowEnt::Motions::Lights']]],
-  ['intvaluemotion_31',['IntValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_int_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Values']]],
-  ['ispline_32',['ISpline',['../interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html',1,'FriedSynapse::FlowEnt']]],
-  ['itweenproxy_33',['ITweenProxy',['../interface_fried_synapse_1_1_flow_ent_1_1_i_tween_proxy.html',1,'FriedSynapse::FlowEnt']]],
-  ['iupdatecontroller_34',['IUpdateController',['../interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html',1,'FriedSynapse::FlowEnt']]]
+  ['intensity_29',['Intensity',['../class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#ab0970f653ff9fd650b77e7c24d617292',1,'FriedSynapse::FlowEnt::LightMotionExtensions']]],
+  ['intensitymotion_30',['IntensityMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_motion.html',1,'FriedSynapse::FlowEnt::Motions::Lights']]],
+  ['intensityto_31',['IntensityTo',['../class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#a124535816c472f17d087c0cafd2dfdfd',1,'FriedSynapse.FlowEnt.LightMotionExtensions.IntensityTo(this TweenMotion&lt; Light &gt; tweenMotion, float to)'],['../class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#a993c6caa2d559d86c754d7c4b6d2ae70',1,'FriedSynapse.FlowEnt.LightMotionExtensions.IntensityTo(this TweenMotion&lt; Light &gt; tweenMotion, float from, float to)']]],
+  ['intvaluemotion_32',['IntValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_int_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Values']]],
+  ['ispline_33',['ISpline',['../interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html',1,'FriedSynapse::FlowEnt']]],
+  ['itweenproxy_34',['ITweenProxy',['../interface_fried_synapse_1_1_flow_ent_1_1_i_tween_proxy.html',1,'FriedSynapse::FlowEnt']]],
+  ['iupdatecontroller_35',['IUpdateController',['../interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html',1,'FriedSynapse::FlowEnt']]]
 ];

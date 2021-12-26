@@ -73,11 +73,9 @@ var annotated_dup =
             [ "RectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_rect_motion.html", null ]
           ] ],
           [ "Lights", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights.html", [
+            [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_gradient_motion.html", null ],
             [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_motion.html", null ],
-            [ "ColorToGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_to_gradient_motion.html", null ],
-            [ "ColorToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_to_motion.html", null ],
-            [ "IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_motion.html", null ],
-            [ "IntensityToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_to_motion.html", null ]
+            [ "IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_motion.html", null ]
           ] ],
           [ "Renderers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers.html", [
             [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_alpha_motion.html", null ],
