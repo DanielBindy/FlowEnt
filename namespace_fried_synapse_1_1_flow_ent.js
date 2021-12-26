@@ -20,7 +20,7 @@ var namespace_fried_synapse_1_1_flow_ent =
     [ "BSpline", "class_fried_synapse_1_1_flow_ent_1_1_b_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_b_spline" ],
     [ "CallbackFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_callback_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_callback_flow_awaiter" ],
     [ "CameraMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_camera_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_camera_motion_extensions" ],
-    [ "CanvasGroupMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions.html", null ],
+    [ "CanvasGroupMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions" ],
     [ "CatmullRomSpline", "class_fried_synapse_1_1_flow_ent_1_1_catmull_rom_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_catmull_rom_spline" ],
     [ "CommonExtensions", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions" ],
     [ "CubicSpline", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline" ],

@@ -48,10 +48,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_quint.html",
-"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_motion.html",
-"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a9ae2f18b2acb1eddb5e5e58308e17b76",
-"class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html#a1914f2fcf198037a209da6f2fad9626f"
+"class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_out_sine.html",
+"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_rect_motion.html",
+"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a9536a61ed3451831a9b83cc020089a32",
+"class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
