@@ -58,11 +58,9 @@ var annotated_dup =
             [ "AbstractVector4Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector4_motion.html", null ],
             [ "IMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html", null ]
           ] ],
-          [ "Audio", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio.html", [
-            [ "PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_pitch_motion.html", null ],
-            [ "PitchToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_pitch_to_motion.html", null ],
-            [ "VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_volume_motion.html", null ],
-            [ "VolumeToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_volume_to_motion.html", null ]
+          [ "AudioSources", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources.html", [
+            [ "PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources_1_1_pitch_motion.html", null ],
+            [ "VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources_1_1_volume_motion.html", null ]
           ] ],
           [ "Cameras", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras.html", [
             [ "BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_gradient_motion.html", null ],

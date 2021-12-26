@@ -1,7 +1,7 @@
 var searchData=
 [
   ['abstract_0',['Abstract',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract.html',1,'FriedSynapse::FlowEnt::Motions']]],
-  ['audio_1',['Audio',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio.html',1,'FriedSynapse::FlowEnt::Motions']]],
+  ['audiosources_1',['AudioSources',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources.html',1,'FriedSynapse::FlowEnt::Motions']]],
   ['cameras_2',['Cameras',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras.html',1,'FriedSynapse::FlowEnt::Motions']]],
   ['canvasgroups_3',['CanvasGroups',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_canvas_groups.html',1,'FriedSynapse::FlowEnt::Motions::UI']]],
   ['easings_4',['Easings',['../namespace_fried_synapse_1_1_flow_ent_1_1_easings.html',1,'FriedSynapse::FlowEnt']]],

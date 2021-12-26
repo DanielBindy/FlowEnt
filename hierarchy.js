@@ -23,6 +23,10 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Renderers.ColorMotion< TRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_color_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Renderers.MaterialColorMotion< TRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_material_color_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Abstract.AbstractFloatMotion< AudioSource >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_float_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.AudioSources.PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources_1_1_pitch_motion.html", null ],
+      [ "FriedSynapse.FlowEnt.Motions.AudioSources.VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources_1_1_volume_motion.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.Motions.Abstract.AbstractFloatMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_float_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Cameras.FarClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_far_clip_plane_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Cameras.FieldOfViewMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_field_of_view_motion.html", null ],
@@ -279,12 +283,6 @@ var hierarchy =
       ] ],
       [ "FriedSynapse.FlowEnt.Motions.Abstract.AbstractMotion< TItem, Vector4 >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Abstract.AbstractVector4Motion< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector4_motion.html", null ]
-      ] ],
-      [ "FriedSynapse.FlowEnt.Motions.Abstract.AbstractMotion< AudioSource >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_motion.html", [
-        [ "FriedSynapse.FlowEnt.Motions.Audio.PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_pitch_motion.html", null ],
-        [ "FriedSynapse.FlowEnt.Motions.Audio.PitchToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_pitch_to_motion.html", null ],
-        [ "FriedSynapse.FlowEnt.Motions.Audio.VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_volume_motion.html", null ],
-        [ "FriedSynapse.FlowEnt.Motions.Audio.VolumeToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_1_1_volume_to_motion.html", null ]
       ] ],
       [ "FriedSynapse.FlowEnt.Motions.Abstract.AbstractMotion< CanvasGroup >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.UI.CanvasGroups.AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_canvas_groups_1_1_alpha_motion.html", null ],

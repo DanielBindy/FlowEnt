@@ -1,9 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a3da6cf8d49f36b2496cf8af494f4f9f7":[0,0,0,0,68,13],
-"namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a42fc7065092dad93fc6ff98a0c7712ab":[0,0,0,0,68,12],
-"namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a46062163182303cb41decc9c7f56ef86":[0,0,0,0,68,8],
-"namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a4e40848543558a80817f615ec1b2b107":[0,0,0,0,68,18],
 "namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a51e1906b67f89bfc0e47c85379fe4eec":[0,0,0,0,68,9],
 "namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a52afbedefc192687be6606155b5bf593":[0,0,0,0,68,4],
 "namespace_fried_synapse_1_1_flow_ent.html#a63ff0fcd8028217a733ba19a90a05d06a5fb24d5365624d849b2cfc6a6390dc39":[0,0,0,0,68,14],
@@ -37,7 +33,7 @@ var NAVTREEINDEX4 =
 "namespace_fried_synapse_1_1_flow_ent_1_1_easings.html":[0,0,0,0,0],
 "namespace_fried_synapse_1_1_flow_ent_1_1_motions.html":[0,0,0,0,1],
 "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract.html":[0,0,0,0,1,0],
-"namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio.html":[0,0,0,0,1,1],
+"namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources.html":[0,0,0,0,1,1],
 "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras.html":[0,0,0,0,1,2],
 "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights.html":[0,0,0,0,1,3],
 "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers.html":[0,0,0,0,1,4],
