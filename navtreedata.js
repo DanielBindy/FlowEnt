@@ -50,8 +50,8 @@ var NAVTREEINDEX =
 "annotated.html",
 "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_out_sine.html",
 "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_gradient_motion.html",
-"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a7f5e59d7c7c73c1d3eea0bc95273499d",
-"class_fried_synapse_1_1_flow_ent_1_1_tween_options.html#adb94268fda8c211cddd5c7e498350f2f"
+"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a2c2d42149e8454f9b0902cf9221f2787",
+"class_fried_synapse_1_1_flow_ent_1_1_tween_motion.html#ac731e387b9736238a7b449f61fb65deb"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

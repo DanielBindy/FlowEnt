@@ -121,13 +121,11 @@ var annotated_dup =
               [ "AnchorPresetData", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_data.html", null ],
               [ "AnchorPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_factory.html", null ],
               [ "MoveAnchoredPositionSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_spline_motion.html", null ],
-              [ "MoveAnchoredPositionToVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_to_vector_motion.html", null ],
               [ "MoveAnchoredPositionVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_vector_motion.html", null ],
               [ "MoveAnchorToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchor_to_motion.html", null ],
               [ "MovePivotToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_pivot_to_motion.html", null ],
               [ "PivotPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_pivot_preset_factory.html", null ],
-              [ "ScaleSizeDeltaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_scale_size_delta_motion.html", null ],
-              [ "ScaleSizeDeltaToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_scale_size_delta_to_motion.html", null ]
+              [ "ScaleSizeDeltaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_scale_size_delta_motion.html", null ]
             ] ]
           ] ],
           [ "Values", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values.html", [
@@ -155,7 +153,7 @@ var annotated_dup =
         [ "AnimationCurve2d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve2d.html", null ],
         [ "AnimationCurve3d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve3d.html", null ],
         [ "AnimationException", "class_fried_synapse_1_1_flow_ent_1_1_animation_exception.html", null ],
-        [ "AudioMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_audio_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_audio_motion_extensions" ],
+        [ "AudioSourceMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_audio_source_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_audio_source_motion_extensions" ],
         [ "AutoStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_auto_start_helper.html", null ],
         [ "AwaitableAnimation", "class_fried_synapse_1_1_flow_ent_1_1_awaitable_animation.html", null ],
         [ "BezierCurve", "class_fried_synapse_1_1_flow_ent_1_1_bezier_curve.html", "class_fried_synapse_1_1_flow_ent_1_1_bezier_curve" ],
@@ -194,7 +192,7 @@ var annotated_dup =
         [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_look_at_transform_motion.html", null ],
         [ "LookAtVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_look_at_vector3_motion.html", null ],
         [ "NormalisedSpline", "class_fried_synapse_1_1_flow_ent_1_1_normalised_spline.html", null ],
-        [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", null ],
+        [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions" ],
         [ "RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions" ],
         [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
         [ "SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
