@@ -45,102 +45,126 @@ var annotated_dup =
           [ "ShakeEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_shake_easing.html", null ]
         ] ],
         [ "Motions", "namespace_fried_synapse_1_1_flow_ent_1_1_motions.html", [
-          [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract.html", [
-            [ "AbstractAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_alpha_motion.html", null ],
-            [ "AbstractAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_animation_curve3d_motion.html", null ],
-            [ "AbstractColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_color_motion.html", null ],
-            [ "AbstractFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_float_motion.html", null ],
-            [ "AbstractGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_gradient_motion.html", null ],
-            [ "AbstractMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_motion.html", null ],
-            [ "AbstractQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_quaternion_motion.html", null ],
-            [ "AbstractRectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_rect_motion.html", null ],
-            [ "AbstractSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_spline_motion.html", null ],
-            [ "AbstractVector2Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector2_motion.html", null ],
-            [ "AbstractVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector3_motion.html", null ],
-            [ "AbstractVector4Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_vector4_motion.html", null ],
-            [ "IMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html", null ]
-          ] ],
-          [ "AudioSources", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources.html", [
-            [ "PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources_1_1_pitch_motion.html", null ],
-            [ "VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_audio_sources_1_1_volume_motion.html", null ]
-          ] ],
-          [ "Cameras", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras.html", [
-            [ "BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_gradient_motion.html", null ],
-            [ "BackgroundColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_motion.html", null ],
-            [ "FarClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_far_clip_plane_motion.html", null ],
-            [ "FieldOfViewMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_field_of_view_motion.html", null ],
-            [ "NearClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_near_clip_plane_motion.html", null ],
-            [ "OrthographicSizeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_orthographic_size_motion.html", null ],
-            [ "RectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_rect_motion.html", null ]
-          ] ],
-          [ "Lights", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights.html", [
-            [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_gradient_motion.html", null ],
-            [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_color_motion.html", null ],
-            [ "IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_lights_1_1_intensity_motion.html", null ]
-          ] ],
-          [ "Renderers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers.html", [
-            [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_alpha_motion.html", null ],
-            [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_color_gradient_motion.html", null ],
-            [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_color_motion.html", null ],
-            [ "MaterialAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_material_alpha_motion.html", null ],
-            [ "MaterialColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_material_color_gradient_motion.html", null ],
-            [ "MaterialColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_material_color_motion.html", null ],
-            [ "MaterialFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_renderers_1_1_material_float_motion.html", null ]
-          ] ],
-          [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms.html", [
-            [ "AbstractAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_abstract_axis_motion.html", null ],
-            [ "MoveAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_animation_curve3d_motion.html", null ],
-            [ "MoveAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_axis_motion.html", null ],
-            [ "MoveLocalAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_local_animation_curve3d_motion.html", null ],
-            [ "MoveLocalAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_local_axis_motion.html", null ],
-            [ "MoveLocalSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_local_spline_motion.html", null ],
-            [ "MoveLocalVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_local_vector_motion.html", null ],
-            [ "MoveSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_spline_motion.html", null ],
-            [ "MoveVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_move_vector_motion.html", null ],
-            [ "OrientToPathMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_orient_to_path_motion.html", null ],
-            [ "RotateAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_rotate_axis_motion.html", null ],
-            [ "RotateLocalAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_rotate_local_axis_motion.html", null ],
-            [ "RotateLocalQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_rotate_local_quaternion_motion.html", null ],
-            [ "RotateLocalVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_rotate_local_vector_motion.html", null ],
-            [ "RotateQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_rotate_quaternion_motion.html", null ],
-            [ "RotateVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_rotate_vector_motion.html", null ],
-            [ "ScaleLocalAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_scale_local_animation_curve3d_motion.html", null ],
-            [ "ScaleLocalAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_scale_local_axis_motion.html", null ],
-            [ "ScaleLocalVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_transforms_1_1_scale_local_vector_motion.html", null ]
-          ] ],
-          [ "UI", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i.html", [
-            [ "CanvasGroups", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_canvas_groups.html", [
-              [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_canvas_groups_1_1_alpha_motion.html", null ]
+          [ "Echo", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo.html", [
+            [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract.html", [
+              [ "AbstractEchoMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],
+              [ "IEchoMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_i_echo_motion.html", null ]
             ] ],
-            [ "Graphics", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_graphics.html", [
-              [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_graphics_1_1_alpha_motion.html", null ],
-              [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_graphics_1_1_color_gradient_motion.html", null ],
-              [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_graphics_1_1_color_motion.html", null ]
+            [ "ParticleSystems", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems.html", [
+              [ "ConvergeToTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_elastic_motion.html", null ],
+              [ "ConvergeToTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_motion.html", null ],
+              [ "ConvergeToVectorElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_elastic_motion.html", null ],
+              [ "ConvergeToVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html", null ]
             ] ],
-            [ "RectTransforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms.html", [
-              [ "AnchorPresetData", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_data.html", null ],
-              [ "AnchorPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_factory.html", null ],
-              [ "MoveAnchoredPositionSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_spline_motion.html", null ],
-              [ "MoveAnchoredPositionVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_vector_motion.html", null ],
-              [ "MoveAnchorToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_anchor_to_motion.html", null ],
-              [ "MovePivotToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_move_pivot_to_motion.html", null ],
-              [ "PivotPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_pivot_preset_factory.html", null ],
-              [ "ScaleSizeDeltaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_u_i_1_1_rect_transforms_1_1_scale_size_delta_motion.html", null ]
-            ] ]
+            [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms.html", [
+              [ "MoveTowardsTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_transform_elastic_motion.html", null ],
+              [ "MoveTowardsTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_transform_motion.html", null ],
+              [ "MoveTowardsVectorElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_vector_elastic_motion.html", null ],
+              [ "MoveTowardsVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_vector_motion.html", null ]
+            ] ],
+            [ "DebugMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_debug_motion.html", null ]
           ] ],
-          [ "Values", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values.html", [
-            [ "AbstractValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_abstract_value_motion.html", null ],
-            [ "Color32ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_color32_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_color32_value_motion" ],
-            [ "ColorValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_color_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_color_value_motion" ],
-            [ "FloatValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_float_value_motion.html", null ],
-            [ "IntValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_int_value_motion.html", null ],
-            [ "QuaternionValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_quaternion_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_quaternion_value_motion" ],
-            [ "SplineValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_spline_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_spline_value_motion" ],
-            [ "Vector2ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_vector2_value_motion.html", null ],
-            [ "Vector3ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_vector3_value_motion.html", null ],
-            [ "Vector4ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_vector4_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_values_1_1_vector4_value_motion" ]
-          ] ],
-          [ "DebugMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_debug_motion.html", null ]
+          [ "Tween", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween.html", [
+            [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract.html", [
+              [ "AbstractAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", null ],
+              [ "AbstractAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_animation_curve3d_motion.html", null ],
+              [ "AbstractColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", null ],
+              [ "AbstractFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", null ],
+              [ "AbstractGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", null ],
+              [ "AbstractQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_quaternion_motion.html", null ],
+              [ "AbstractRectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rect_motion.html", null ],
+              [ "AbstractSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_spline_motion.html", null ],
+              [ "AbstractTweenMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion.html", null ],
+              [ "AbstractValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_value_motion.html", null ],
+              [ "AbstractVector2Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_vector2_motion.html", null ],
+              [ "AbstractVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_vector3_motion.html", null ],
+              [ "AbstractVector4Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_vector4_motion.html", null ],
+              [ "ITweenMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_i_tween_motion.html", null ]
+            ] ],
+            [ "AudioSources", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_audio_sources.html", [
+              [ "PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_audio_sources_1_1_pitch_motion.html", null ],
+              [ "VolumeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_audio_sources_1_1_volume_motion.html", null ]
+            ] ],
+            [ "Cameras", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras.html", [
+              [ "BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_gradient_motion.html", null ],
+              [ "BackgroundColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_motion.html", null ],
+              [ "FarClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_far_clip_plane_motion.html", null ],
+              [ "FieldOfViewMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_field_of_view_motion.html", null ],
+              [ "NearClipPlaneMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_near_clip_plane_motion.html", null ],
+              [ "OrthographicSizeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_orthographic_size_motion.html", null ],
+              [ "RectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_rect_motion.html", null ]
+            ] ],
+            [ "Lights", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights.html", [
+              [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_gradient_motion.html", null ],
+              [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_motion.html", null ],
+              [ "IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html", null ]
+            ] ],
+            [ "Renderers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers.html", [
+              [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_alpha_motion.html", null ],
+              [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_color_gradient_motion.html", null ],
+              [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_color_motion.html", null ],
+              [ "MaterialAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_alpha_motion.html", null ],
+              [ "MaterialColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_color_gradient_motion.html", null ],
+              [ "MaterialColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_color_motion.html", null ],
+              [ "MaterialFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_float_motion.html", null ]
+            ] ],
+            [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms.html", [
+              [ "AbstractAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_axis_motion.html", null ],
+              [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_transform_motion.html", null ],
+              [ "LookAtVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_vector3_motion.html", null ],
+              [ "MoveAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_animation_curve3d_motion.html", null ],
+              [ "MoveAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_axis_motion.html", null ],
+              [ "MoveLocalAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_animation_curve3d_motion.html", null ],
+              [ "MoveLocalAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_axis_motion.html", null ],
+              [ "MoveLocalSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_spline_motion.html", null ],
+              [ "MoveLocalVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_vector_motion.html", null ],
+              [ "MoveSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_spline_motion.html", null ],
+              [ "MoveVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_vector_motion.html", null ],
+              [ "OrientToPathMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_orient_to_path_motion.html", null ],
+              [ "RotateAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_axis_motion.html", null ],
+              [ "RotateLocalAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_axis_motion.html", null ],
+              [ "RotateLocalQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_quaternion_motion.html", null ],
+              [ "RotateLocalVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_vector_motion.html", null ],
+              [ "RotateQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_quaternion_motion.html", null ],
+              [ "RotateVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_vector_motion.html", null ],
+              [ "ScaleLocalAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_animation_curve3d_motion.html", null ],
+              [ "ScaleLocalAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_axis_motion.html", null ],
+              [ "ScaleLocalVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_vector_motion.html", null ]
+            ] ],
+            [ "UI", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i.html", [
+              [ "CanvasGroups", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_canvas_groups.html", [
+                [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_canvas_groups_1_1_alpha_motion.html", null ]
+              ] ],
+              [ "Graphics", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics.html", [
+                [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_alpha_motion.html", null ],
+                [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_gradient_motion.html", null ],
+                [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_motion.html", null ]
+              ] ],
+              [ "RectTransforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms.html", [
+                [ "AnchorPresetData", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_data.html", null ],
+                [ "AnchorPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_anchor_preset_factory.html", null ],
+                [ "MoveAnchoredPositionSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_spline_motion.html", null ],
+                [ "MoveAnchoredPositionVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_vector_motion.html", null ],
+                [ "MoveAnchorToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_move_anchor_to_motion.html", null ],
+                [ "MovePivotToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_move_pivot_to_motion.html", null ],
+                [ "PivotPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_pivot_preset_factory.html", null ],
+                [ "ScaleSizeDeltaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_scale_size_delta_motion.html", null ]
+              ] ]
+            ] ],
+            [ "Values", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values.html", [
+              [ "AbstractValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_abstract_value_motion.html", null ],
+              [ "Color32ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_color32_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_color32_value_motion" ],
+              [ "ColorValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_color_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_color_value_motion" ],
+              [ "FloatValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_float_value_motion.html", null ],
+              [ "IntValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_int_value_motion.html", null ],
+              [ "QuaternionValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_quaternion_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_quaternion_value_motion" ],
+              [ "SplineValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_spline_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_spline_value_motion" ],
+              [ "Vector2ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_vector2_value_motion.html", null ],
+              [ "Vector3ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_vector3_value_motion.html", null ],
+              [ "Vector4ValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_vector4_value_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_vector4_value_motion" ]
+            ] ],
+            [ "DebugMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_debug_motion.html", null ]
+          ] ]
         ] ],
         [ "AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation" ],
         [ "AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events" ],
@@ -152,7 +176,7 @@ var annotated_dup =
         [ "AnimationAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_animation_awaiter.html", null ],
         [ "AnimationCurve2d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve2d.html", null ],
         [ "AnimationCurve3d", "class_fried_synapse_1_1_flow_ent_1_1_animation_curve3d.html", null ],
-        [ "AnimationException", "class_fried_synapse_1_1_flow_ent_1_1_animation_exception.html", null ],
+        [ "AnimationException", "class_fried_synapse_1_1_flow_ent_1_1_animation_exception.html", "class_fried_synapse_1_1_flow_ent_1_1_animation_exception" ],
         [ "AudioSourceMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_audio_source_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_audio_source_motion_extensions" ],
         [ "AutoStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_auto_start_helper.html", null ],
         [ "AwaitableAnimation", "class_fried_synapse_1_1_flow_ent_1_1_awaitable_animation.html", null ],
@@ -165,6 +189,11 @@ var annotated_dup =
         [ "CommonExtensions", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions" ],
         [ "CubicSpline", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline" ],
         [ "DelayedStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_delayed_start_helper.html", null ],
+        [ "Echo", "class_fried_synapse_1_1_flow_ent_1_1_echo.html", "class_fried_synapse_1_1_flow_ent_1_1_echo" ],
+        [ "EchoEvents", "class_fried_synapse_1_1_flow_ent_1_1_echo_events.html", "class_fried_synapse_1_1_flow_ent_1_1_echo_events" ],
+        [ "EchoMotionProxy", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy" ],
+        [ "EchoMotionProxyArray", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array" ],
+        [ "EchoOptions", "class_fried_synapse_1_1_flow_ent_1_1_echo_options.html", "class_fried_synapse_1_1_flow_ent_1_1_echo_options" ],
         [ "FastList", "class_fried_synapse_1_1_flow_ent_1_1_fast_list.html", null ],
         [ "FastListItem", "class_fried_synapse_1_1_flow_ent_1_1_fast_list_item.html", null ],
         [ "Flow", "class_fried_synapse_1_1_flow_ent_1_1_flow.html", "class_fried_synapse_1_1_flow_ent_1_1_flow" ],
@@ -172,26 +201,26 @@ var annotated_dup =
         [ "FlowEntController", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller" ],
         [ "FlowEntDebug", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_debug.html", null ],
         [ "FlowEvents", "class_fried_synapse_1_1_flow_ent_1_1_flow_events.html", "class_fried_synapse_1_1_flow_ent_1_1_flow_events" ],
-        [ "FlowException", "class_fried_synapse_1_1_flow_ent_1_1_flow_exception.html", "class_fried_synapse_1_1_flow_ent_1_1_flow_exception" ],
         [ "FlowOptions", "class_fried_synapse_1_1_flow_ent_1_1_flow_options.html", "class_fried_synapse_1_1_flow_ent_1_1_flow_options" ],
         [ "GraphicMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions" ],
         [ "IBuilder", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html", null ],
         [ "IControllable", "interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html", null ],
         [ "IFluentAnimationEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable" ],
         [ "IFluentAnimationOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_optionable" ],
+        [ "IFluentControllable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_controllable.html", null ],
+        [ "IFluentEchoEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_echo_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_echo_eventable" ],
+        [ "IFluentEchoOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_echo_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_echo_optionable" ],
         [ "IFluentFlowEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_eventable.html", null ],
         [ "IFluentFlowOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ],
         [ "IFluentTweenEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable" ],
         [ "IFluentTweenOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable" ],
         [ "ISpline", "interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html", null ],
-        [ "ITweenProxy", "interface_fried_synapse_1_1_flow_ent_1_1_i_tween_proxy.html", null ],
         [ "IUpdateController", "interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html", null ],
         [ "LagrangeSpline", "class_fried_synapse_1_1_flow_ent_1_1_lagrange_spline.html", null ],
         [ "LightMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions" ],
         [ "LinearSpline", "class_fried_synapse_1_1_flow_ent_1_1_linear_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_linear_spline" ],
-        [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_look_at_transform_motion.html", null ],
-        [ "LookAtVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_look_at_vector3_motion.html", null ],
         [ "NormalisedSpline", "class_fried_synapse_1_1_flow_ent_1_1_normalised_spline.html", null ],
+        [ "ParticleSystemMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions" ],
         [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions" ],
         [ "RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions" ],
         [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
@@ -202,11 +231,11 @@ var annotated_dup =
         [ "TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ],
         [ "TweenEvents", "class_fried_synapse_1_1_flow_ent_1_1_tween_events.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_events" ],
         [ "TweenEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_events_builder.html", null ],
-        [ "TweenException", "class_fried_synapse_1_1_flow_ent_1_1_tween_exception.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_exception" ],
-        [ "TweenMotion", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion" ],
-        [ "TweenMotionArray", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_array.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_array" ],
+        [ "TweenMotionProxy", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy" ],
+        [ "TweenMotionProxyArray", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy_array.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy_array" ],
         [ "TweenOptions", "class_fried_synapse_1_1_flow_ent_1_1_tween_options.html", "class_fried_synapse_1_1_flow_ent_1_1_tween_options" ],
         [ "TweenOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_options_builder.html", null ],
+        [ "UpdatablesFastList", "class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html", null ],
         [ "ValueMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions" ]
       ] ]
     ] ]

@@ -39,6 +39,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", null ],
         [ "Properties", "functions_prop.html", null ]
       ] ]
     ] ]
@@ -48,10 +49,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_out_sine.html",
-"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_cameras_1_1_background_color_gradient_motion.html",
-"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a2c2d42149e8454f9b0902cf9221f2787",
-"class_fried_synapse_1_1_flow_ent_1_1_tween_motion.html#ac731e387b9736238a7b449f61fb65deb"
+"class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_out_elastic.html",
+"class_fried_synapse_1_1_flow_ent_1_1_flow.html#a3998034d8b8383c13b1750d888dfba75",
+"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_spline_motion.html",
+"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a681c1ff3c78973db881dc8bbe27a85e7",
+"class_fried_synapse_1_1_flow_ent_1_1_tween_options.html#a2e842993ac2210ce1c529e511981e22d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

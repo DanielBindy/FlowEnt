@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hasinstance_0',['HasInstance',['../class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#a154a0ee960e14468858756919a83dffe',1,'FriedSynapse::FlowEnt::FlowEntController']]]
+  ['instance_0',['Instance',['../class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#adab4e97aa28794d45adca19864af06a5',1,'FriedSynapse::FlowEnt::FlowEntController']]]
 ];
