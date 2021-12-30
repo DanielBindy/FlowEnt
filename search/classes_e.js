@@ -8,6 +8,7 @@ var searchData=
   ['rotatelocalaxismotion_5',['RotateLocalAxisMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_axis_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]],
   ['rotatelocalquaternionmotion_6',['RotateLocalQuaternionMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_quaternion_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]],
   ['rotatelocalvectormotion_7',['RotateLocalVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]],
-  ['rotatequaternionmotion_8',['RotateQuaternionMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_quaternion_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]],
-  ['rotatevectormotion_9',['RotateVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]]
+  ['rotatemotion_8',['RotateMotion',['../class_fried_synapse_1_1_flow_ent_1_1_rotate_motion.html',1,'FriedSynapse::FlowEnt']]],
+  ['rotatequaternionmotion_9',['RotateQuaternionMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_quaternion_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]],
+  ['rotatevectormotion_10',['RotateVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Transforms']]]
 ];

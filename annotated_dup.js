@@ -50,6 +50,9 @@ var annotated_dup =
               [ "AbstractEchoMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],
               [ "IEchoMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_i_echo_motion.html", null ]
             ] ],
+            [ "CharacterControllers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers.html", [
+              [ "MoveMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_move_motion.html", null ]
+            ] ],
             [ "ParticleSystems", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems.html", [
               [ "ConvergeToTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_elastic_motion.html", null ],
               [ "ConvergeToTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_motion.html", null ],
@@ -57,6 +60,8 @@ var annotated_dup =
               [ "ConvergeToVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html", null ]
             ] ],
             [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms.html", [
+              [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_look_at_transform_motion.html", null ],
+              [ "LookAtVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_look_at_vector3_motion.html", null ],
               [ "MoveTowardsTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_transform_elastic_motion.html", null ],
               [ "MoveTowardsTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_transform_motion.html", null ],
               [ "MoveTowardsVectorElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_towards_vector_elastic_motion.html", null ],
@@ -186,6 +191,7 @@ var annotated_dup =
         [ "CameraMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_camera_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_camera_motion_extensions" ],
         [ "CanvasGroupMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions" ],
         [ "CatmullRomSpline", "class_fried_synapse_1_1_flow_ent_1_1_catmull_rom_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_catmull_rom_spline" ],
+        [ "CharacterControllerMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_character_controller_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_character_controller_motion_extensions" ],
         [ "CommonExtensions", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions" ],
         [ "CubicSpline", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline" ],
         [ "DelayedStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_delayed_start_helper.html", null ],
@@ -223,6 +229,7 @@ var annotated_dup =
         [ "ParticleSystemMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions" ],
         [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions" ],
         [ "RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions" ],
+        [ "RotateMotion", "class_fried_synapse_1_1_flow_ent_1_1_rotate_motion.html", null ],
         [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
         [ "SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
         [ "TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter" ],

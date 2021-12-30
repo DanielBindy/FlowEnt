@@ -1,5 +1,7 @@
 var class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions =
 [
+    [ "LookAt< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a5b54441645e553258e89de8c0202274f", null ],
+    [ "LookAt< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a462585a83b103781236b236a72a13d5e", null ],
     [ "LookAt< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#ae6fe432d73f18b7f4605ba3fbe8e2fff", null ],
     [ "LookAt< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#ad0134955cacb263ba85736ba3174e4b8", null ],
     [ "Move< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a65463d396d281933ecf5a1adcdfb724c", null ],

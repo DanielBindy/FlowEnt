@@ -49,11 +49,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_out_elastic.html",
-"class_fried_synapse_1_1_flow_ent_1_1_flow.html#a3998034d8b8383c13b1750d888dfba75",
-"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_spline_motion.html",
-"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a681c1ff3c78973db881dc8bbe27a85e7",
-"class_fried_synapse_1_1_flow_ent_1_1_tween_options.html#a2e842993ac2210ce1c529e511981e22d"
+"class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_ease_in_out_bounce.html",
+"class_fried_synapse_1_1_flow_ent_1_1_flow.html#a2fda6c108d28e1f7b3c17c74ddd4ed3d",
+"class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_animation_curve3d_motion.html",
+"class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html#a4f8bedc6566307eb8ec97865519a3b90",
+"class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html#ad555dd5121b0482422abd56c9b5edbb0",
+"namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
