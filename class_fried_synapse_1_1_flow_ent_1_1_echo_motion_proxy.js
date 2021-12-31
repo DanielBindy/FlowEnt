@@ -24,6 +24,7 @@ var class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy =
     [ "SetStopCondition", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a16b4ffcb6b4d94b58b4aff1d6e559b57", null ],
     [ "SetTimeout", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#acac655d1647ca203c33cffe708167af4", null ],
     [ "SetTimeScale", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a3282d02df1b7acef9e9683b99d702434", null ],
+    [ "SetUpdateType", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a1915b6d0429314016f797d26e725b9fb", null ],
     [ "Start", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#adb6903bcf27a9ebc7a4e75f908e4b720", null ],
     [ "StartAsync", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a4d822d9246a3294eb3c1c6f91dd8ccaf", null ],
     [ "Stop", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a529efd2894d98b4625c739827f072fa9", null ]

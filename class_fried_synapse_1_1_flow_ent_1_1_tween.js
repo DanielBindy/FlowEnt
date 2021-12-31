@@ -32,6 +32,7 @@ var class_fried_synapse_1_1_flow_ent_1_1_tween =
     [ "SetSkipFrames", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a9b65d0724d4be119c37bb7a97063e053", null ],
     [ "SetTime", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a31be2c092186431e089d401837509bb4", null ],
     [ "SetTimeScale", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a73dbcb81d9be8cb4e9f10acdde6558fc", null ],
+    [ "SetUpdateType", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a9a3ff2824bce505fb22d43aa8b58a3b8", null ],
     [ "Start", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a937df3aacf6e63271fc87b92bbec7f56", null ],
     [ "StartAsync", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a68515046afbe910105e0862fae3105ed", null ],
     [ "Stop", "class_fried_synapse_1_1_flow_ent_1_1_tween.html#a33072fde4e20a99e6bc68076bb071496", null ]

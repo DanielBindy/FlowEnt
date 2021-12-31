@@ -317,6 +317,9 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.IFluentTweenOptionable< TTween >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.IFluentControllable< TType >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_controllable.html", null ],
+    [ "FriedSynapse.FlowEnt.IFluentControllable< AbstractAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_controllable.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.IFluentControllable< Echo >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_controllable.html", [
       [ "FriedSynapse.FlowEnt.Echo", "class_fried_synapse_1_1_flow_ent_1_1_echo.html", null ]
     ] ],
