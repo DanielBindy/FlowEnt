@@ -45,6 +45,10 @@ var annotated_dup =
           [ "ShakeEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_shake_easing.html", null ]
         ] ],
         [ "Motions", "namespace_fried_synapse_1_1_flow_ent_1_1_motions.html", [
+          [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract.html", [
+            [ "AbstractMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_abstract_motion.html", null ],
+            [ "IMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html", null ]
+          ] ],
           [ "Echo", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo.html", [
             [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract.html", [
               [ "AbstractEchoMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],

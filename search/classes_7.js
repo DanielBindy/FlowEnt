@@ -45,9 +45,10 @@ var searchData=
   ['ifluenttweenoptionable_3c_20tween_20_3e_42',['IFluentTweenOptionable&lt; Tween &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
   ['ifluenttweenoptionable_3c_20tweenmotionproxy_3c_20titem_20_3e_20_3e_43',['IFluentTweenOptionable&lt; TweenMotionProxy&lt; TItem &gt; &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
   ['ifluenttweenoptionable_3c_20tweenoptions_20_3e_44',['IFluentTweenOptionable&lt; TweenOptions &gt;',['../interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html',1,'FriedSynapse::FlowEnt']]],
-  ['intensitymotion_45',['IntensityMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Lights']]],
-  ['intvaluemotion_46',['IntValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_int_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]],
-  ['ispline_47',['ISpline',['../interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html',1,'FriedSynapse::FlowEnt']]],
-  ['itweenmotion_48',['ITweenMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_i_tween_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Abstract']]],
-  ['iupdatecontroller_49',['IUpdateController',['../interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html',1,'FriedSynapse::FlowEnt']]]
+  ['imotion_45',['IMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_abstract_1_1_i_motion.html',1,'FriedSynapse::FlowEnt::Motions::Abstract']]],
+  ['intensitymotion_46',['IntensityMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Lights']]],
+  ['intvaluemotion_47',['IntValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_int_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]],
+  ['ispline_48',['ISpline',['../interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html',1,'FriedSynapse::FlowEnt']]],
+  ['itweenmotion_49',['ITweenMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_i_tween_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Abstract']]],
+  ['iupdatecontroller_50',['IUpdateController',['../interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html',1,'FriedSynapse::FlowEnt']]]
 ];
