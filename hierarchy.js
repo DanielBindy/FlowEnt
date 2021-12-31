@@ -15,6 +15,18 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveLocalAnimationCurve3dMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_animation_curve3d_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.ScaleLocalAnimationCurve3dMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_animation_curve3d_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< EchoEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", [
+      [ "FriedSynapse.FlowEnt.EchoEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_events_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< TweenEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", [
+      [ "FriedSynapse.FlowEnt.TweenEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_events_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< EchoOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", [
+      [ "FriedSynapse.FlowEnt.EchoOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< TweenOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", [
+      [ "FriedSynapse.FlowEnt.TweenOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_options_builder.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.AbstractAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_axis_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_axis_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_axis_motion.html", null ],
@@ -22,14 +34,17 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_axis_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.ScaleLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_axis_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.AbstractBuilder< Echo >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
+      [ "FriedSynapse.FlowEnt.EchoBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractBuilder< TAnimationEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< TAnimationEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractBuilder< TAnimationOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< TAnimationOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.AbstractBuilder< Tween >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
       [ "FriedSynapse.FlowEnt.TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.AbstractBuilder< TweenEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-      [ "FriedSynapse.FlowEnt.TweenEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_events_builder.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.AbstractBuilder< TweenOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-      [ "FriedSynapse.FlowEnt.TweenOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_options_builder.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_motion.html", null ]

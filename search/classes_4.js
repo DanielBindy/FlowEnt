@@ -33,8 +33,11 @@ var searchData=
   ['easingextensions_30',['EasingExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_extensions.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['easingfactory_31',['EasingFactory',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_factory.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['echo_32',['Echo',['../class_fried_synapse_1_1_flow_ent_1_1_echo.html',1,'FriedSynapse::FlowEnt']]],
-  ['echoevents_33',['EchoEvents',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events.html',1,'FriedSynapse::FlowEnt']]],
-  ['echomotionproxy_34',['EchoMotionProxy',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html',1,'FriedSynapse::FlowEnt']]],
-  ['echomotionproxyarray_35',['EchoMotionProxyArray',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html',1,'FriedSynapse::FlowEnt']]],
-  ['echooptions_36',['EchoOptions',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html',1,'FriedSynapse::FlowEnt']]]
+  ['echobuilder_33',['EchoBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html',1,'FriedSynapse::FlowEnt']]],
+  ['echoevents_34',['EchoEvents',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events.html',1,'FriedSynapse::FlowEnt']]],
+  ['echoeventsbuilder_35',['EchoEventsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events_builder.html',1,'FriedSynapse::FlowEnt']]],
+  ['echomotionproxy_36',['EchoMotionProxy',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html',1,'FriedSynapse::FlowEnt']]],
+  ['echomotionproxyarray_37',['EchoMotionProxyArray',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html',1,'FriedSynapse::FlowEnt']]],
+  ['echooptions_38',['EchoOptions',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html',1,'FriedSynapse::FlowEnt']]],
+  ['echooptionsbuilder_39',['EchoOptionsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html',1,'FriedSynapse::FlowEnt']]]
 ];

@@ -35,8 +35,11 @@ var searchData=
   ['easingfactory_32',['EasingFactory',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_factory.html',1,'FriedSynapse::FlowEnt::Easings']]],
   ['echo_33',['Echo',['../class_fried_synapse_1_1_flow_ent_1_1_echo.html#a3d0c459825ff6dc383db736ccbab2143',1,'FriedSynapse.FlowEnt.Echo.Echo(EchoOptions options)'],['../class_fried_synapse_1_1_flow_ent_1_1_echo.html#a0947d238c3b2ff8d00702fc6661426d8',1,'FriedSynapse.FlowEnt.Echo.Echo(float? timeout=default, bool autoStart=AbstractAnimationOptions.DefaultAutoStart)'],['../class_fried_synapse_1_1_flow_ent_1_1_echo.html',1,'FriedSynapse.FlowEnt.Echo']]],
   ['echo_3c_20titem_20_3e_34',['Echo&lt; TItem &gt;',['../class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html#a1791f77d1f32e493f8daaef26f6c7866',1,'FriedSynapse.FlowEnt.CommonExtensions.Echo&lt; TItem &gt;(this TItem item, float? timeout=default, bool autoStart=AbstractAnimationOptions.DefaultAutoStart)'],['../class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html#aa3322a696ad1738e82d13b08f6610620',1,'FriedSynapse.FlowEnt.CommonExtensions.Echo&lt; TItem &gt;(this TItem item, EchoOptions options)']]],
-  ['echoevents_35',['EchoEvents',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events.html',1,'FriedSynapse::FlowEnt']]],
-  ['echomotionproxy_36',['EchoMotionProxy',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html',1,'FriedSynapse::FlowEnt']]],
-  ['echomotionproxyarray_37',['EchoMotionProxyArray',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html',1,'FriedSynapse::FlowEnt']]],
-  ['echooptions_38',['EchoOptions',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html#a4719794b3585efdc1e537a84f492ae38',1,'FriedSynapse.FlowEnt.EchoOptions.EchoOptions()'],['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html',1,'FriedSynapse.FlowEnt.EchoOptions']]]
+  ['echobuilder_35',['EchoBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html',1,'FriedSynapse::FlowEnt']]],
+  ['echoevents_36',['EchoEvents',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events.html',1,'FriedSynapse::FlowEnt']]],
+  ['echoeventsbuilder_37',['EchoEventsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events_builder.html',1,'FriedSynapse::FlowEnt']]],
+  ['echomotionproxy_38',['EchoMotionProxy',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html',1,'FriedSynapse::FlowEnt']]],
+  ['echomotionproxyarray_39',['EchoMotionProxyArray',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html',1,'FriedSynapse::FlowEnt']]],
+  ['echooptions_40',['EchoOptions',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html#a4719794b3585efdc1e537a84f492ae38',1,'FriedSynapse.FlowEnt.EchoOptions.EchoOptions()'],['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html',1,'FriedSynapse.FlowEnt.EchoOptions']]],
+  ['echooptionsbuilder_41',['EchoOptionsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html',1,'FriedSynapse::FlowEnt']]]
 ];
