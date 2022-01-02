@@ -55,13 +55,19 @@ var annotated_dup =
               [ "IEchoMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_i_echo_motion.html", null ]
             ] ],
             [ "CharacterControllers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers.html", [
-              [ "MoveMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_move_motion.html", null ]
+              [ "MoveByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_move_by_input_motion.html", null ],
+              [ "RotateByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_rotate_by_input_motion.html", null ]
             ] ],
             [ "ParticleSystems", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems.html", [
               [ "ConvergeToTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_elastic_motion.html", null ],
               [ "ConvergeToTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_motion.html", null ],
               [ "ConvergeToVectorElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_elastic_motion.html", null ],
               [ "ConvergeToVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html", null ]
+            ] ],
+            [ "Rigidbodies", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies.html", [
+              [ "JumpByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_jump_by_input_motion.html", null ],
+              [ "MoveByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_move_by_input_motion.html", null ],
+              [ "RotateByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_rotate_by_input_motion.html", null ]
             ] ],
             [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms.html", [
               [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_look_at_transform_motion.html", null ],
@@ -238,7 +244,7 @@ var annotated_dup =
         [ "ParticleSystemMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions" ],
         [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions" ],
         [ "RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions" ],
-        [ "RotateMotion", "class_fried_synapse_1_1_flow_ent_1_1_rotate_motion.html", null ],
+        [ "RigidbodyMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions" ],
         [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
         [ "SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
         [ "TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter" ],

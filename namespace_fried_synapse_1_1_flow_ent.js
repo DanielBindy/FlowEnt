@@ -65,7 +65,7 @@ var namespace_fried_synapse_1_1_flow_ent =
     [ "ParticleSystemMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions" ],
     [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions" ],
     [ "RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions" ],
-    [ "RotateMotion", "class_fried_synapse_1_1_flow_ent_1_1_rotate_motion.html", null ],
+    [ "RigidbodyMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions" ],
     [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
     [ "SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
     [ "TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter" ],

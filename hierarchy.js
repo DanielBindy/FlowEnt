@@ -95,8 +95,8 @@ var hierarchy =
     ] ],
     [ "AbstractMotion", null, [
       [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< CharacterController >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", [
-        [ "FriedSynapse.FlowEnt.Motions.Echo.CharacterControllers.MoveMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_move_motion.html", null ],
-        [ "FriedSynapse.FlowEnt.RotateMotion", "class_fried_synapse_1_1_flow_ent_1_1_rotate_motion.html", null ]
+        [ "FriedSynapse.FlowEnt.Motions.Echo.CharacterControllers.MoveByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_move_by_input_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Echo.CharacterControllers.RotateByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_rotate_by_input_motion.html", null ]
       ] ],
       [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< ParticleSystem >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Echo.ParticleSystems.ConvergeToVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html", [
@@ -105,6 +105,11 @@ var hierarchy =
             [ "FriedSynapse.FlowEnt.Motions.Echo.ParticleSystems.ConvergeToTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_elastic_motion.html", null ]
           ] ]
         ] ]
+      ] ],
+      [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< Rigidbody >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", [
+        [ "FriedSynapse.FlowEnt.Motions.Echo.Rigidbodies.JumpByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_jump_by_input_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Echo.Rigidbodies.MoveByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_move_by_input_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Echo.Rigidbodies.RotateByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_rotate_by_input_motion.html", null ]
       ] ],
       [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.LookAtTransformMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_look_at_transform_motion.html", null ],
@@ -414,6 +419,7 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.IEchoMotion", "interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_i_echo_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< CharacterController >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< ParticleSystem >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< Rigidbody >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", null ]
       ] ],
@@ -449,6 +455,7 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.UI.RectTransforms.PivotPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_pivot_preset_factory.html", null ],
     [ "FriedSynapse.FlowEnt.RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", null ],
+    [ "FriedSynapse.FlowEnt.RigidbodyMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.TweenMotionProxyArray< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy_array.html", null ],
