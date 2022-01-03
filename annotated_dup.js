@@ -58,10 +58,22 @@ var annotated_dup =
               [ "MoveByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_move_by_input_motion.html", null ],
               [ "RotateByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_rotate_by_input_motion.html", null ]
             ] ],
+            [ "Inputs", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs.html", [
+              [ "ButtonDownMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_button_down_motion.html", null ],
+              [ "ButtonMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_button_motion.html", null ],
+              [ "ButtonUpMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_button_up_motion.html", null ],
+              [ "InputIntMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_input_int_motion.html", null ],
+              [ "InputKeyCodeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_input_key_code_motion.html", null ],
+              [ "InputStringMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_input_string_motion.html", null ],
+              [ "KeyDownMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_key_down_motion.html", null ],
+              [ "KeyMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_key_motion.html", null ],
+              [ "KeyUpMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_key_up_motion.html", null ],
+              [ "MouseButtonDownMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_mouse_button_down_motion.html", null ],
+              [ "MouseButtonMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_mouse_button_motion.html", null ],
+              [ "MouseButtonUpMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_mouse_button_up_motion.html", null ]
+            ] ],
             [ "ParticleSystems", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems.html", [
-              [ "ConvergeToTransformElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_elastic_motion.html", null ],
               [ "ConvergeToTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_motion.html", null ],
-              [ "ConvergeToVectorElasticMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_elastic_motion.html", null ],
               [ "ConvergeToVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html", null ]
             ] ],
             [ "Rigidbodies", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies.html", [
@@ -240,6 +252,7 @@ var annotated_dup =
         [ "IFluentFlowOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ],
         [ "IFluentTweenEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable" ],
         [ "IFluentTweenOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable" ],
+        [ "InputMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_input_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_input_motion_extensions" ],
         [ "ISpline", "interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html", null ],
         [ "IUpdateController", "interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html", null ],
         [ "LagrangeSpline", "class_fried_synapse_1_1_flow_ent_1_1_lagrange_spline.html", null ],

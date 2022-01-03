@@ -56,6 +56,7 @@ var namespace_fried_synapse_1_1_flow_ent =
     [ "IFluentFlowOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_flow_optionable.html", null ],
     [ "IFluentTweenEventable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_eventable" ],
     [ "IFluentTweenOptionable", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable.html", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_tween_optionable" ],
+    [ "InputMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_input_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_input_motion_extensions" ],
     [ "ISpline", "interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html", null ],
     [ "IUpdateController", "interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html", null ],
     [ "LagrangeSpline", "class_fried_synapse_1_1_flow_ent_1_1_lagrange_spline.html", null ],
