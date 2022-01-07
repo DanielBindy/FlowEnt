@@ -129,7 +129,10 @@ var annotated_dup =
             [ "Lights", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights.html", [
               [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_gradient_motion.html", null ],
               [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_motion.html", null ],
-              [ "IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html", null ]
+              [ "IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html", null ],
+              [ "RangeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_range_motion.html", null ],
+              [ "ShadowRadiusMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_radius_motion.html", null ],
+              [ "ShadowStrengthMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_strength_motion.html", null ]
             ] ],
             [ "Renderers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers.html", [
               [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_alpha_motion.html", null ],

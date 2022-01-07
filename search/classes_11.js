@@ -7,8 +7,10 @@ var searchData=
   ['scaletotransformmotion_4',['ScaleToTransformMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_scale_to_transform_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::Transforms']]],
   ['scaletovectormotion_5',['ScaleToVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_scale_to_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::Transforms']]],
   ['scalevectormotion_6',['ScaleVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_scale_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::Transforms']]],
-  ['shakeeasing_7',['ShakeEasing',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_shake_easing.html',1,'FriedSynapse::FlowEnt::Easings']]],
-  ['skipframesstarthelper_8',['SkipFramesStartHelper',['../class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html',1,'FriedSynapse::FlowEnt']]],
-  ['splineextensions_9',['SplineExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html',1,'FriedSynapse::FlowEnt']]],
-  ['splinevaluemotion_10',['SplineValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_spline_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]]
+  ['shadowradiusmotion_7',['ShadowRadiusMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_radius_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Lights']]],
+  ['shadowstrengthmotion_8',['ShadowStrengthMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_strength_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Lights']]],
+  ['shakeeasing_9',['ShakeEasing',['../class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_shake_easing.html',1,'FriedSynapse::FlowEnt::Easings']]],
+  ['skipframesstarthelper_10',['SkipFramesStartHelper',['../class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html',1,'FriedSynapse::FlowEnt']]],
+  ['splineextensions_11',['SplineExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html',1,'FriedSynapse::FlowEnt']]],
+  ['splinevaluemotion_12',['SplineValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_spline_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]]
 ];
