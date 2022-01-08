@@ -51,8 +51,9 @@ var searchData=
   ['inputmotionextensions_48',['InputMotionExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_input_motion_extensions.html',1,'FriedSynapse::FlowEnt']]],
   ['inputstringmotion_49',['InputStringMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_inputs_1_1_input_string_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::Inputs']]],
   ['intensitymotion_50',['IntensityMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Lights']]],
-  ['intvaluemotion_51',['IntValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_int_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]],
-  ['ispline_52',['ISpline',['../interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html',1,'FriedSynapse::FlowEnt']]],
-  ['itweenmotion_53',['ITweenMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_i_tween_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Abstract']]],
-  ['iupdatecontroller_54',['IUpdateController',['../interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html',1,'FriedSynapse::FlowEnt']]]
+  ['intpropertyidmotion_51',['IntPropertyIdMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_int_property_id_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Materials']]],
+  ['intvaluemotion_52',['IntValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_int_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]],
+  ['ispline_53',['ISpline',['../interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html',1,'FriedSynapse::FlowEnt']]],
+  ['itweenmotion_54',['ITweenMotion',['../interface_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_i_tween_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Abstract']]],
+  ['iupdatecontroller_55',['IUpdateController',['../interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html',1,'FriedSynapse::FlowEnt']]]
 ];

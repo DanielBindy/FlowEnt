@@ -103,6 +103,7 @@ var annotated_dup =
               [ "AbstractColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", null ],
               [ "AbstractFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", null ],
               [ "AbstractGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", null ],
+              [ "AbstractIntMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_int_motion.html", null ],
               [ "AbstractQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_quaternion_motion.html", null ],
               [ "AbstractRectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rect_motion.html", null ],
               [ "AbstractSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_spline_motion.html", null ],
@@ -134,14 +135,18 @@ var annotated_dup =
               [ "ShadowRadiusMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_radius_motion.html", null ],
               [ "ShadowStrengthMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_strength_motion.html", null ]
             ] ],
-            [ "Renderers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers.html", [
-              [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_alpha_motion.html", null ],
-              [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_color_gradient_motion.html", null ],
-              [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_color_motion.html", null ],
-              [ "MaterialAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_alpha_motion.html", null ],
-              [ "MaterialColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_color_gradient_motion.html", null ],
-              [ "MaterialColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_color_motion.html", null ],
-              [ "MaterialFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_renderers_1_1_material_float_motion.html", null ]
+            [ "Materials", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials.html", [
+              [ "AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_alpha_motion.html", null ],
+              [ "AlphaPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_alpha_property_id_motion.html", null ],
+              [ "ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_gradient_motion.html", null ],
+              [ "ColorGradientPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_gradient_property_id_motion.html", null ],
+              [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_motion.html", null ],
+              [ "ColorPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_property_id_motion.html", null ],
+              [ "FloatPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_float_property_id_motion.html", null ],
+              [ "IntPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_int_property_id_motion.html", null ],
+              [ "TextureOffsetPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_texture_offset_property_id_motion.html", null ],
+              [ "TextureScalePropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_texture_scale_property_id_motion.html", null ],
+              [ "VectorPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_vector_property_id_motion.html", null ]
             ] ],
             [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms.html", [
               [ "AbstractAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_axis_motion.html", null ],
@@ -261,10 +266,10 @@ var annotated_dup =
         [ "LagrangeSpline", "class_fried_synapse_1_1_flow_ent_1_1_lagrange_spline.html", null ],
         [ "LightMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions" ],
         [ "LinearSpline", "class_fried_synapse_1_1_flow_ent_1_1_linear_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_linear_spline" ],
+        [ "MaterialMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_material_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_material_motion_extensions" ],
         [ "NormalisedSpline", "class_fried_synapse_1_1_flow_ent_1_1_normalised_spline.html", null ],
         [ "ParticleSystemMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions" ],
         [ "RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions" ],
-        [ "RendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_renderer_motion_extensions" ],
         [ "RigidbodyMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions" ],
         [ "SkipFramesStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_skip_frames_start_helper.html", null ],
         [ "SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
