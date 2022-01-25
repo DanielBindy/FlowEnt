@@ -30,8 +30,6 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.AbstractAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_axis_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_axis_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_axis_motion.html", null ],
-      [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_axis_motion.html", null ],
-      [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_axis_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.ScaleLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_axis_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractBuilder< Echo >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
@@ -97,6 +95,12 @@ var hierarchy =
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractFloatMotion< TMaterial >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.FloatPropertyIdMotion< TMaterial >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_float_property_id_motion.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractFloatMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.AbstractRotateAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_rotate_axis_motion.html", [
+        [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_axis_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateLocalAxisMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_axis_motion.html", null ]
+      ] ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractGradientMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_gradient_motion.html", null ]
