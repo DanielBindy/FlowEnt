@@ -140,6 +140,9 @@ var hierarchy =
           [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.MoveToTransformMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_to_transform_motion.html", null ]
         ] ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.MoveVectorMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_move_vector_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.RotateAroundVectorMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_rotate_around_vector_motion.html", [
+          [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.RotateAroundTransformMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_rotate_around_transform_motion.html", null ]
+        ] ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.RotateToQuaternionMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_rotate_to_quaternion_motion.html", [
           [ "FriedSynapse.FlowEnt.Motions.Echo.Transforms.RotateToTransformMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms_1_1_rotate_to_transform_motion.html", null ]
         ] ],
@@ -152,7 +155,10 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractTweenMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.LookAtTransformMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_transform_motion.html", null ],
         [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.LookAtVector3Motion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_vector3_motion.html", null ],
-        [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.OrientToPathMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_orient_to_path_motion.html", null ]
+        [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.OrientToPathMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_orient_to_path_motion.html", null ],
+        [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateAroundVectorMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_around_vector_motion.html", [
+          [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateAroundTransformMotion< TTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_around_transform_motion.html", null ]
+        ] ]
       ] ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractTweenMotion< RectTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Tween.UI.RectTransforms.MoveAnchorToMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_move_anchor_to_motion.html", null ],
