@@ -12,7 +12,11 @@ var searchData=
   ['colorpropertyidmotion_9',['ColorPropertyIdMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_property_id_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Materials']]],
   ['colorvaluemotion_10',['ColorValueMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_color_value_motion.html',1,'FriedSynapse::FlowEnt::Motions::Tween::Values']]],
   ['commonextensions_11',['CommonExtensions',['../class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html',1,'FriedSynapse::FlowEnt']]],
-  ['convergetotransformmotion_12',['ConvergeToTransformMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::ParticleSystems']]],
-  ['convergetovectormotion_13',['ConvergeToVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::ParticleSystems']]],
-  ['cubicspline_14',['CubicSpline',['../class_fried_synapse_1_1_flow_ent_1_1_cubic_spline.html',1,'FriedSynapse::FlowEnt']]]
+  ['controllablesection_12',['ControllableSection',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_controllable_section.html',1,'FriedSynapse::FlowEnt::Editor']]],
+  ['controllablesection_3c_20friedsynapse_3a_3aflowent_3a_3aflowentcontroller_20_3e_13',['ControllableSection&lt; FriedSynapse::FlowEnt::FlowEntController &gt;',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_controllable_section.html',1,'FriedSynapse::FlowEnt::Editor']]],
+  ['controllablesection_3c_20tanimation_20_3e_14',['ControllableSection&lt; TAnimation &gt;',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_controllable_section.html',1,'FriedSynapse::FlowEnt::Editor']]],
+  ['convergetotransformmotion_15',['ConvergeToTransformMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_transform_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::ParticleSystems']]],
+  ['convergetovectormotion_16',['ConvergeToVectorMotion',['../class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems_1_1_converge_to_vector_motion.html',1,'FriedSynapse::FlowEnt::Motions::Echo::ParticleSystems']]],
+  ['createnewmotionscripthelper_17',['CreateNewMotionScriptHelper',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_create_new_motion_script_helper.html',1,'FriedSynapse::FlowEnt::Editor']]],
+  ['cubicspline_18',['CubicSpline',['../class_fried_synapse_1_1_flow_ent_1_1_cubic_spline.html',1,'FriedSynapse::FlowEnt']]]
 ];

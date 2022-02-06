@@ -36,8 +36,11 @@ var searchData=
   ['echobuilder_33',['EchoBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html',1,'FriedSynapse::FlowEnt']]],
   ['echoevents_34',['EchoEvents',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events.html',1,'FriedSynapse::FlowEnt']]],
   ['echoeventsbuilder_35',['EchoEventsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_events_builder.html',1,'FriedSynapse::FlowEnt']]],
-  ['echomotionproxy_36',['EchoMotionProxy',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html',1,'FriedSynapse::FlowEnt']]],
-  ['echomotionproxyarray_37',['EchoMotionProxyArray',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html',1,'FriedSynapse::FlowEnt']]],
-  ['echooptions_38',['EchoOptions',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html',1,'FriedSynapse::FlowEnt']]],
-  ['echooptionsbuilder_39',['EchoOptionsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html',1,'FriedSynapse::FlowEnt']]]
+  ['echoeventsbuilderpropertydrawer_36',['EchoEventsBuilderPropertyDrawer',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_events_builder_property_drawer.html',1,'FriedSynapse::FlowEnt::Editor']]],
+  ['echoinspectorwindow_37',['EchoInspectorWindow',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_inspector_window.html',1,'FriedSynapse::FlowEnt::Editor']]],
+  ['echomotionproxy_38',['EchoMotionProxy',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html',1,'FriedSynapse::FlowEnt']]],
+  ['echomotionproxyarray_39',['EchoMotionProxyArray',['../class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html',1,'FriedSynapse::FlowEnt']]],
+  ['echooptions_40',['EchoOptions',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options.html',1,'FriedSynapse::FlowEnt']]],
+  ['echooptionsbuilder_41',['EchoOptionsBuilder',['../class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html',1,'FriedSynapse::FlowEnt']]],
+  ['echooptionsbuilderpropertydrawer_42',['EchoOptionsBuilderPropertyDrawer',['../class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_options_builder_property_drawer.html',1,'FriedSynapse::FlowEnt::Editor']]]
 ];

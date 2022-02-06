@@ -1,6 +1,7 @@
 var namespace_fried_synapse_1_1_flow_ent =
 [
     [ "Easings", "namespace_fried_synapse_1_1_flow_ent_1_1_easings.html", "namespace_fried_synapse_1_1_flow_ent_1_1_easings" ],
+    [ "Editor", "namespace_fried_synapse_1_1_flow_ent_1_1_editor.html", "namespace_fried_synapse_1_1_flow_ent_1_1_editor" ],
     [ "Motions", "namespace_fried_synapse_1_1_flow_ent_1_1_motions.html", "namespace_fried_synapse_1_1_flow_ent_1_1_motions" ],
     [ "AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation" ],
     [ "AbstractAnimationEvents", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events" ],
