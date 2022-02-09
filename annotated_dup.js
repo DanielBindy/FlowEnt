@@ -121,12 +121,14 @@ var annotated_dup =
             [ "Abstract", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract.html", [
               [ "AbstractAlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", null ],
               [ "AbstractAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_animation_curve3d_motion.html", null ],
+              [ "AbstractAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_axis_motion.html", null ],
               [ "AbstractColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", null ],
               [ "AbstractFloatMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", null ],
               [ "AbstractGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", null ],
               [ "AbstractIntMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_int_motion.html", null ],
               [ "AbstractQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_quaternion_motion.html", null ],
               [ "AbstractRectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rect_motion.html", null ],
+              [ "AbstractRotateAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rotate_axis_motion.html", null ],
               [ "AbstractSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_spline_motion.html", null ],
               [ "AbstractTweenMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion.html", null ],
               [ "AbstractValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_value_motion.html", null ],
@@ -169,9 +171,18 @@ var annotated_dup =
               [ "TextureScalePropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_texture_scale_property_id_motion.html", null ],
               [ "VectorPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_vector_property_id_motion.html", null ]
             ] ],
+            [ "Rigidbodies", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies.html", [
+              [ "AngularVelocityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_angular_velocity_motion.html", null ],
+              [ "MassMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_mass_motion.html", null ],
+              [ "MoveAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_move_animation_curve3d_motion.html", null ],
+              [ "MoveAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_move_axis_motion.html", null ],
+              [ "MoveSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_move_spline_motion.html", null ],
+              [ "MoveVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_move_vector_motion.html", null ],
+              [ "RotateQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_rotate_quaternion_motion.html", null ],
+              [ "RotateVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_rotate_vector_motion.html", null ],
+              [ "VelocityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_velocity_motion.html", null ]
+            ] ],
             [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms.html", [
-              [ "AbstractAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_axis_motion.html", null ],
-              [ "AbstractRotateAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_abstract_rotate_axis_motion.html", null ],
               [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_transform_motion.html", null ],
               [ "LookAtVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_vector3_motion.html", null ],
               [ "MoveAnimationCurve3dMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_animation_curve3d_motion.html", null ],
