@@ -10,8 +10,20 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractAlphaMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.AlphaMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_alpha_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationBuilder< Echo >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html", [
+      [ "FriedSynapse.FlowEnt.EchoBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationBuilder< Flow >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html", [
+      [ "FriedSynapse.FlowEnt.FlowBuilder", "class_fried_synapse_1_1_flow_ent_1_1_flow_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationBuilder< Tween >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html", [
+      [ "FriedSynapse.FlowEnt.TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< Echo, EchoBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", [
       [ "FriedSynapse.FlowEnt.Editor.EchoBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< Flow, FlowBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.FlowBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_builder_property_drawer.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< Tween, TweenBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", [
       [ "FriedSynapse.FlowEnt.Editor.TweenBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_builder_property_drawer.html", null ]
@@ -33,6 +45,9 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< EchoEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", [
       [ "FriedSynapse.FlowEnt.EchoEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_events_builder.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< FlowEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", [
+      [ "FriedSynapse.FlowEnt.FlowEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_flow_events_builder.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< TweenEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", [
       [ "FriedSynapse.FlowEnt.TweenEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_events_builder.html", null ]
     ] ],
@@ -47,6 +62,9 @@ var hierarchy =
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< EchoOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", [
       [ "FriedSynapse.FlowEnt.EchoOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< FlowOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", [
+      [ "FriedSynapse.FlowEnt.FlowOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_flow_options_builder.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< TweenOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", [
       [ "FriedSynapse.FlowEnt.TweenOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_options_builder.html", null ]
@@ -71,23 +89,17 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveLocalAxisMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_axis_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.ScaleLocalAxisMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_scale_local_axis_motion_1_1_value_builder.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.AbstractBuilder< Echo >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-      [ "FriedSynapse.FlowEnt.EchoBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html", null ]
+    [ "FriedSynapse.FlowEnt.AbstractBuilder< T >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
+      [ "FriedSynapse.FlowEnt.AbstractMotionBuilder< T >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_motion_builder.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.AbstractBuilder< List< IEchoMotion > >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-      [ "FriedSynapse.FlowEnt.EchoMotionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_motions_builder.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.AbstractBuilder< List< ITweenMotion > >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-      [ "FriedSynapse.FlowEnt.TweenMotionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_motions_builder.html", null ]
+    [ "FriedSynapse.FlowEnt.AbstractBuilder< TAnimation >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
+      [ "FriedSynapse.FlowEnt.AbstractAnimationBuilder< TAnimation >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractBuilder< TAnimationEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< TAnimationEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractBuilder< TAnimationOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< TAnimationOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.AbstractBuilder< Tween >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-      [ "FriedSynapse.FlowEnt.TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_motion.html", null ]
@@ -136,6 +148,15 @@ var hierarchy =
         ] ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.DebugMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_debug_motion_1_1_builder.html", null ]
       ] ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractEventsBuilderPropertyDrawer< EchoEventsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_events_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.EchoEventsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_events_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractEventsBuilderPropertyDrawer< FlowEventsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_events_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.FlowEventsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_events_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractEventsBuilderPropertyDrawer< TweenEventsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_events_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.TweenEventsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_events_builder_property_drawer.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractFloatMotion< AudioSource >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.AudioSources.PitchMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_audio_sources_1_1_pitch_motion.html", null ],
@@ -250,6 +271,31 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractIntMotion< Material >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_int_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.IntPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_int_property_id_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.AbstractListBuilder< TListItem >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_list_builder.html", null ],
+    [ "FriedSynapse.FlowEnt.AbstractListBuilder< AbstractEchoMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_list_builder.html", [
+      [ "FriedSynapse.FlowEnt.EchoMotionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_motions_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractListBuilder< AbstractTweenMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_list_builder.html", [
+      [ "FriedSynapse.FlowEnt.TweenMotionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_motions_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractListBuilder< IAbstractAnimationBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_list_builder.html", [
+      [ "FriedSynapse.FlowEnt.FlowBuilder.QueueList.Queue", "class_fried_synapse_1_1_flow_ent_1_1_flow_builder_1_1_queue_list_1_1_queue.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.AbstractListBuilder< QueueList.Queue >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_list_builder.html", [
+      [ "FriedSynapse.FlowEnt.FlowBuilder.QueueList", "class_fried_synapse_1_1_flow_ent_1_1_flow_builder_1_1_queue_list.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractListBuilderPropertyDrawer< AbstractEchoMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_list_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.EchoMotionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_motions_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractListBuilderPropertyDrawer< AbstractTweenMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_list_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.TweenMotionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_motions_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractListBuilderPropertyDrawer< FlowBuilder.QueueList.Queue >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_list_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.FlowQueuesBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_queues_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractListBuilderPropertyDrawer< IAbstractAnimationBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_list_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.FlowQueueAnimationBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_queue_animation_builder_property_drawer.html", null ]
+    ] ],
     [ "AbstractMotion", null, [
       [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< CharacterController >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", [
         [ "FriedSynapse.FlowEnt.Motions.Echo.CharacterControllers.RotateByInputMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_rotate_by_input_motion.html", null ]
@@ -296,20 +342,11 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractMotionsBuilderPropertyDrawer< AbstractEchoMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motions_builder_property_drawer.html", [
-      [ "FriedSynapse.FlowEnt.Editor.EchoMotionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_motions_builder_property_drawer.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractMotionsBuilderPropertyDrawer< AbstractTweenMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motions_builder_property_drawer.html", [
-      [ "FriedSynapse.FlowEnt.Editor.TweenMotionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_motions_builder_property_drawer.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< EchoEventsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", [
-      [ "FriedSynapse.FlowEnt.Editor.EchoEventsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_events_builder_property_drawer.html", null ]
-    ] ],
     [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< EchoOptionsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", [
       [ "FriedSynapse.FlowEnt.Editor.EchoOptionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_options_builder_property_drawer.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< TweenEventsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", [
-      [ "FriedSynapse.FlowEnt.Editor.TweenEventsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_events_builder_property_drawer.html", null ]
+    [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< FlowOptionsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.FlowOptionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_options_builder_property_drawer.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< TweenOptionsBuilderPropertyDrawer.PropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", [
       [ "FriedSynapse.FlowEnt.Editor.TweenOptionsBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_options_builder_property_drawer.html", null ]
@@ -510,6 +547,7 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Editor.ControllableSection< FriedSynapse.FlowEnt.FlowEntController >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_controllable_section.html", null ],
     [ "FriedSynapse.FlowEnt.Editor.ControllableSection< TAnimation >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_controllable_section.html", null ],
     [ "FriedSynapse.FlowEnt.Editor.CreateNewMotionScriptHelper", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_create_new_motion_script_helper.html", null ],
+    [ "FriedSynapse.FlowEnt.Editor.AbstractListBuilderPropertyDrawer< TListItem >.Data", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_list_builder_property_drawer_1_1_data.html", null ],
     [ "FriedSynapse.FlowEnt.Easings.EasingExtensions", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.Easings.EasingFactory", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_easing_factory.html", null ],
     [ "FriedSynapse.FlowEnt.EchoMotionProxyArray< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html", null ],
@@ -534,10 +572,8 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Editor.FlowEntEditorGUILayout", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_ent_editor_g_u_i_layout.html", null ],
     [ "FriedSynapse.FlowEnt.Editor.FlowEntMenu", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_ent_menu.html", null ],
     [ "FriedSynapse.FlowEnt.GraphicMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions.html", null ],
-    [ "FriedSynapse.FlowEnt.Editor.HideFlagsUtility", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_hide_flags_utility.html", null ],
-    [ "FriedSynapse.FlowEnt.IBuilder< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html", [
-      [ "FriedSynapse.FlowEnt.AbstractBuilder< T >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
-        [ "FriedSynapse.FlowEnt.AbstractMotionBuilder< T >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_motion_builder.html", null ],
+    [ "FriedSynapse.FlowEnt.IBuilder< TItem >", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html", [
+      [ "FriedSynapse.FlowEnt.AbstractBuilder< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_builder.html", [
         [ "FriedSynapse.FlowEnt.Motions.Echo.CharacterControllers.RotateByInputMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_character_controllers_1_1_rotate_by_input_motion_1_1_builder.html", null ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Rigidbodies.JumpByInputMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_jump_by_input_motion_1_1_builder.html", null ],
         [ "FriedSynapse.FlowEnt.Motions.Echo.Rigidbodies.RotateByInputMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies_1_1_rotate_by_input_motion_1_1_builder.html", null ],
@@ -555,11 +591,35 @@ var hierarchy =
         [ "FriedSynapse.FlowEnt.Motions.Tween.Values.Vector4ValueMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values_1_1_vector4_value_motion_1_1_builder.html", null ]
       ] ]
     ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >.Icon", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer_1_1_icon.html", null ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractMotionBuilderPropertyDrawer.Icon", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motion_builder_property_drawer_1_1_icon.html", null ],
+    [ "FriedSynapse.FlowEnt.IBuilder< List< IEchoMotion > >", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html", [
+      [ "FriedSynapse.FlowEnt.EchoMotionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_motions_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IBuilder< List< ITweenMotion > >", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html", [
+      [ "FriedSynapse.FlowEnt.TweenMotionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_motions_builder.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IBuilderListItem", "interface_fried_synapse_1_1_flow_ent_1_1_i_builder_list_item.html", [
+      [ "FriedSynapse.FlowEnt.FlowBuilder.QueueList.Queue", "class_fried_synapse_1_1_flow_ent_1_1_flow_builder_1_1_queue_list_1_1_queue.html", null ],
+      [ "FriedSynapse.FlowEnt.IAbstractAnimationBuilder", "interface_fried_synapse_1_1_flow_ent_1_1_i_abstract_animation_builder.html", [
+        [ "FriedSynapse.FlowEnt.AbstractAnimationBuilder< TAnimation >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html", null ]
+      ] ],
+      [ "FriedSynapse.FlowEnt.IMotionBuilder", "interface_fried_synapse_1_1_flow_ent_1_1_i_motion_builder.html", [
+        [ "FriedSynapse.FlowEnt.AbstractMotionBuilder< T >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_motion_builder.html", null ]
+      ] ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.Icon", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_icon.html", null ],
     [ "FriedSynapse.FlowEnt.IControllable", "interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html", [
       [ "FriedSynapse.FlowEnt.AbstractAnimation", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html", null ],
       [ "FriedSynapse.FlowEnt.FlowEntController", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.ICrudable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html", null ],
+    [ "FriedSynapse.FlowEnt.Editor.ICrudable< IMotionBuilder >", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html", [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractMotionBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motion_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.ICrudable< Queue >", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html", [
+      [ "FriedSynapse.FlowEnt.Editor.FlowQueueAnimationBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_queue_animation_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.ICrudable< TAnimationBuilder >", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html", [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Easings.IEasing", "interface_fried_synapse_1_1_flow_ent_1_1_easings_1_1_i_easing.html", [
       [ "FriedSynapse.FlowEnt.Easings.AbstractOscilationEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_abstract_oscilation_easing.html", [
@@ -601,6 +661,9 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Easings.FunctionEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_function_easing.html", null ],
       [ "FriedSynapse.FlowEnt.Easings.LinearEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_linear_easing.html", null ],
       [ "FriedSynapse.FlowEnt.Easings.ReverseEasing", "class_fried_synapse_1_1_flow_ent_1_1_easings_1_1_reverse_easing.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.IFlowEntUpdater", "interface_fried_synapse_1_1_flow_ent_1_1_i_flow_ent_updater.html", [
+      [ "FriedSynapse.FlowEnt.FlowEntRuntimeUpdater", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_runtime_updater.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< T >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", null ],
     [ "FriedSynapse.FlowEnt.IFluentAnimationEventable< AbstractAnimation >", "interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html", [
@@ -726,15 +789,12 @@ var hierarchy =
         [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractTweenMotion< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion.html", null ]
       ] ]
     ] ],
-    [ "FriedSynapse.FlowEnt.IMotionBuilder", "interface_fried_synapse_1_1_flow_ent_1_1_i_motion_builder.html", [
-      [ "FriedSynapse.FlowEnt.AbstractMotionBuilder< T >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_motion_builder.html", null ]
-    ] ],
     [ "INotifyCompletion", null, [
       [ "FriedSynapse.FlowEnt.AnimationAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_animation_awaiter.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.InputMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_input_motion_extensions.html", null ],
-    [ "IPreviewable", null, [
-      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", null ]
+    [ "FriedSynapse.FlowEnt.Editor.IPreviewable", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_previewable.html", [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >.Data", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer_1_1_data.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.ISpline", "interface_fried_synapse_1_1_flow_ent_1_1_i_spline.html", [
       [ "FriedSynapse.FlowEnt.AbstractSpline", "class_fried_synapse_1_1_flow_ent_1_1_abstract_spline.html", [
@@ -754,15 +814,24 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.LightMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.MaterialMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_material_motion_extensions.html", null ],
     [ "MonoBehaviour", null, [
-      [ "FriedSynapse.FlowEnt.FlowEntController", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html", null ]
+      [ "FriedSynapse.FlowEnt.FlowEntRuntimeUpdater", "class_fried_synapse_1_1_flow_ent_1_1_flow_ent_runtime_updater.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.ParticleSystemMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_particle_system_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.UI.RectTransforms.PivotPresetFactory", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_pivot_preset_factory.html", null ],
+    [ "FriedSynapse.FlowEnt.Editor.PreviewController", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_preview_controller.html", null ],
     [ "PropertyDrawer", null, [
-      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", null ],
-      [ "FriedSynapse.FlowEnt.Editor.AbstractMotionBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motion_builder_property_drawer.html", null ],
-      [ "FriedSynapse.FlowEnt.Editor.AbstractMotionsBuilderPropertyDrawer< TMotionBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motions_builder_property_drawer.html", null ],
-      [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< TPropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", null ]
+      [ "FriedSynapse.FlowEnt.Editor.PropertyDrawer< TData >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer.html", [
+        [ "FriedSynapse.FlowEnt.Editor.AbstractMotionBuilderPropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_motion_builder_property_drawer.html", null ],
+        [ "FriedSynapse.FlowEnt.Editor.AbstractPropertiesBuilderPropertyDrawer< TPropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_properties_builder_property_drawer.html", [
+          [ "FriedSynapse.FlowEnt.Editor.AbstractEventsBuilderPropertyDrawer< TPropertiesEnum >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_events_builder_property_drawer.html", null ]
+        ] ]
+      ] ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.PropertyDrawer< AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >.Data >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer< TAnimation, TAnimationBuilder >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Editor.PropertyDrawer< AbstractListBuilderPropertyDrawer< TListItem >.Data >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer.html", [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractListBuilderPropertyDrawer< TListItem >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_list_builder_property_drawer.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.RectTransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rect_transform_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.RigidbodyMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions.html", null ],

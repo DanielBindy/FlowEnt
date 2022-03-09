@@ -109,6 +109,8 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html">AbstractAnimation</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides animation specific behaviour  <a href="class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html">AbstractAnimationBuilder</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html">AbstractAnimationEvents</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides common events for animations.  <a href="class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -125,6 +127,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter.html">AbstractFlowAwaiter</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow.html" title="Provides functionality to create a sequence or multiple sequences of animations. For more information...">Flow</a> awaiters basic functionality  <a href="class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_list_builder.html">AbstractListBuilder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_motion_builder.html">AbstractMotionBuilder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -199,24 +203,39 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow.html">Flow</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides functionality to create a sequence or multiple sequences of animations. For more information please go to <a href="https://flowent.friedsynapse.com/flow">https://flowent.friedsynapse.com/flow</a>  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_builder.html">FlowBuilder</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_constants.html">FlowEntConstants</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html">FlowEntController</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A singleton monobehaviour that is the core of the <a class="el" href="namespace_fried_synapse_1_1_flow_ent.html">FlowEnt</a> library. Hold the main update method and a handful of global parameters. The script automatically attaches itself to an object in the scene called FlowEnt(created by this script). Make sure not to delete this object because the library will not work without this script attached to an object in the scene.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A singleton that is the core of the <a class="el" href="namespace_fried_synapse_1_1_flow_ent.html">FlowEnt</a> library. Hold the main update method and a handful of global parameters. The script automatically attaches itself to an object in the scene called FlowEnt(created by this script). Make sure not to delete this object because the library will not work without this script attached to an object in the scene.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_debug.html">FlowEntDebug</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_runtime_updater.html">FlowEntRuntimeUpdater</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Runtime updater for the <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html" title="A singleton that is the core of the FlowEnt library. Hold the main update method and a handful of glo...">FlowEntController</a>.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_runtime_updater.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_events.html">FlowEvents</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides events for flows.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_events.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_events_builder.html">FlowEventsBuilder</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_options.html">FlowOptions</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides options for flows.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_options.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_options_builder.html">FlowOptionsBuilder</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions.html">GraphicMotionExtensions</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_abstract_animation_builder.html">IAbstractAnimationBuilder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_builder.html">IBuilder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_builder_list_item.html">IBuilderListItem</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html">IControllable</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_flow_ent_updater.html">IFlowEntUpdater</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_fluent_animation_eventable.html">IFluentAnimationEventable</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>

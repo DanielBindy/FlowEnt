@@ -99,14 +99,16 @@ $(document).ready(function(){initNavTree('class_fried_synapse_1_1_flow_ent_1_1_f
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pac-methods">Package Functions</a> &#124;
 <a href="#pac-static-methods">Static Package Functions</a> &#124;
+<a href="#pac-attribs">Package Attributes</a> &#124;
 <a href="#properties">Properties</a> &#124;
 <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">FriedSynapse.FlowEnt.FlowEntController Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>A singleton monobehaviour that is the core of the <a class="el" href="namespace_fried_synapse_1_1_flow_ent.html">FlowEnt</a> library. Hold the main update method and a handful of global parameters. The script automatically attaches itself to an object in the scene called FlowEnt(created by this script). Make sure not to delete this object because the library will not work without this script attached to an object in the scene.  
+<p>A singleton that is the core of the <a class="el" href="namespace_fried_synapse_1_1_flow_ent.html">FlowEnt</a> library. Hold the main update method and a handful of global parameters. The script automatically attaches itself to an object in the scene called FlowEnt(created by this script). Make sure not to delete this object because the library will not work without this script attached to an object in the scene.  
  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for FriedSynapse.FlowEnt.FlowEntController:</div>
@@ -114,16 +116,13 @@ Inheritance diagram for FriedSynapse.FlowEnt.FlowEntController:</div>
  <div class="center">
   <img src="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.png" usemap="#FriedSynapse.FlowEnt.FlowEntController_map" alt=""/>
   <map id="FriedSynapse.FlowEnt.FlowEntController_map" name="FriedSynapse.FlowEnt.FlowEntController_map">
-<area href="interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html" title="Interface used for update controllers. There is one main update controller(FlowEntController) and eac..." alt="FriedSynapse.FlowEnt.IUpdateController" shape="rect" coords="255,0,500,24"/>
-<area href="interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html" alt="FriedSynapse.FlowEnt.IControllable" shape="rect" coords="510,0,755,24"/>
+<area href="interface_fried_synapse_1_1_flow_ent_1_1_i_update_controller.html" title="Interface used for update controllers. There is one main update controller(FlowEntController) and eac..." alt="FriedSynapse.FlowEnt.IUpdateController" shape="rect" coords="0,0,245,24"/>
+<area href="interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html" alt="FriedSynapse.FlowEnt.IControllable" shape="rect" coords="255,0,500,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:add0ef5834002806852ca31a9e48fe76a"><td class="memItemLeft" align="right" valign="top"><a id="add0ef5834002806852ca31a9e48fe76a" name="add0ef5834002806852ca31a9e48fe76a"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>CustomUpdate</b> (float deltaTime)</td></tr>
-<tr class="separator:add0ef5834002806852ca31a9e48fe76a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adc53d95b9f99e628a07e168c96bfefc2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#adc53d95b9f99e628a07e168c96bfefc2">Pause</a> ()</td></tr>
 <tr class="memdesc:adc53d95b9f99e628a07e168c96bfefc2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pauses all animations.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#adc53d95b9f99e628a07e168c96bfefc2">More...</a><br /></td></tr>
 <tr class="separator:adc53d95b9f99e628a07e168c96bfefc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -146,21 +145,55 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>UnsubscribeFromUpdate
 <tr class="memitem:aaf0a7bfab3163a8e1ce0694a959c4341"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_i_controllable.html#aaf0a7bfab3163a8e1ce0694a959c4341">Stop</a> (bool triggerOnCompleted=false)</td></tr>
 <tr class="separator:aaf0a7bfab3163a8e1ce0694a959c4341"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pac-methods" name="pac-methods"></a>
+Package Functions</h2></td></tr>
+<tr class="memitem:af36f78a096dd9d9882edae73c0e79a55"><td class="memItemLeft" align="right" valign="top"><a id="af36f78a096dd9d9882edae73c0e79a55" name="af36f78a096dd9d9882edae73c0e79a55"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>Update</b> (float deltaTime, float smoothDeltaTime)</td></tr>
+<tr class="separator:af36f78a096dd9d9882edae73c0e79a55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2abee3472a421738d9384d5b53d4694a"><td class="memItemLeft" align="right" valign="top"><a id="a2abee3472a421738d9384d5b53d4694a" name="a2abee3472a421738d9384d5b53d4694a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>LateUpdate</b> (float deltaTime, float smoothDeltaTime)</td></tr>
+<tr class="separator:a2abee3472a421738d9384d5b53d4694a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1ba4d1a3a5dd9f973b95379574a4187"><td class="memItemLeft" align="right" valign="top"><a id="ac1ba4d1a3a5dd9f973b95379574a4187" name="ac1ba4d1a3a5dd9f973b95379574a4187"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>FixedUpdate</b> (float fixedDeltaTime)</td></tr>
+<tr class="separator:ac1ba4d1a3a5dd9f973b95379574a4187"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add0ef5834002806852ca31a9e48fe76a"><td class="memItemLeft" align="right" valign="top"><a id="add0ef5834002806852ca31a9e48fe76a" name="add0ef5834002806852ca31a9e48fe76a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>CustomUpdate</b> (float deltaTime)</td></tr>
+<tr class="separator:add0ef5834002806852ca31a9e48fe76a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pac-static-methods" name="pac-static-methods"></a>
 Static Package Functions</h2></td></tr>
 <tr class="memitem:a7301ee82bbd7fe2085adbaf52fe8b22e"><td class="memItemLeft" align="right" valign="top"><a id="a7301ee82bbd7fe2085adbaf52fe8b22e" name="a7301ee82bbd7fe2085adbaf52fe8b22e"></a>
 static void&#160;</td><td class="memItemRight" valign="bottom"><b>Update</b> (<a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt; updatables, float scaledDeltaTime)</td></tr>
 <tr class="separator:a7301ee82bbd7fe2085adbaf52fe8b22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pac-attribs" name="pac-attribs"></a>
+Package Attributes</h2></td></tr>
+<tr class="memitem:ab82beccc015cd038d8ed9552eb6edb3e"><td class="memItemLeft" align="right" valign="top"><a id="ab82beccc015cd038d8ed9552eb6edb3e" name="ab82beccc015cd038d8ed9552eb6edb3e"></a>
+readonly <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>updatables</b> = new <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt;AbstractUpdatable&gt;()</td></tr>
+<tr class="separator:ab82beccc015cd038d8ed9552eb6edb3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b7b17bb543bb761983daa06f5f90df4"><td class="memItemLeft" align="right" valign="top"><a id="a9b7b17bb543bb761983daa06f5f90df4" name="a9b7b17bb543bb761983daa06f5f90df4"></a>
+readonly <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>smoothUpdatables</b> = new <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt;AbstractUpdatable&gt;()</td></tr>
+<tr class="separator:a9b7b17bb543bb761983daa06f5f90df4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace56844b05b08ff624d294e1f57caacf"><td class="memItemLeft" align="right" valign="top"><a id="ace56844b05b08ff624d294e1f57caacf" name="ace56844b05b08ff624d294e1f57caacf"></a>
+readonly <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>lateUpdatables</b> = new <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt;AbstractUpdatable&gt;()</td></tr>
+<tr class="separator:ace56844b05b08ff624d294e1f57caacf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a815c4ed75677d47cb9e54b3e1b044f51"><td class="memItemLeft" align="right" valign="top"><a id="a815c4ed75677d47cb9e54b3e1b044f51" name="a815c4ed75677d47cb9e54b3e1b044f51"></a>
+readonly <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>smoothLateUpdatables</b> = new <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt;AbstractUpdatable&gt;()</td></tr>
+<tr class="separator:a815c4ed75677d47cb9e54b3e1b044f51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a752487b1e60affc4d312c9dc49ffea92"><td class="memItemLeft" align="right" valign="top"><a id="a752487b1e60affc4d312c9dc49ffea92" name="a752487b1e60affc4d312c9dc49ffea92"></a>
+readonly <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>fixedUpdatables</b> = new <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt;AbstractUpdatable&gt;()</td></tr>
+<tr class="separator:a752487b1e60affc4d312c9dc49ffea92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40b5705698ed35b62e32e6b71c6ea3fa"><td class="memItemLeft" align="right" valign="top"><a id="a40b5705698ed35b62e32e6b71c6ea3fa" name="a40b5705698ed35b62e32e6b71c6ea3fa"></a>
+readonly <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt; AbstractUpdatable &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>customUpdatables</b> = new <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html">UpdatablesFastList</a>&lt;AbstractUpdatable&gt;()</td></tr>
+<tr class="separator:a40b5705698ed35b62e32e6b71c6ea3fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:adab4e97aa28794d45adca19864af06a5"><td class="memItemLeft" align="right" valign="top"><a id="adab4e97aa28794d45adca19864af06a5" name="adab4e97aa28794d45adca19864af06a5"></a>
 static <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html">FlowEntController</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Instance</b><code> [get]</code></td></tr>
-<tr class="memdesc:adab4e97aa28794d45adca19864af06a5"><td class="mdescLeft">&#160;</td><td class="mdescRight">The instance of <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html" title="A singleton monobehaviour that is the core of the FlowEnt library. Hold the main update method and a ...">FlowEntController</a>. <br /></td></tr>
 <tr class="separator:adab4e97aa28794d45adca19864af06a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a154a0ee960e14468858756919a83dffe"><td class="memItemLeft" align="right" valign="top"><a id="a154a0ee960e14468858756919a83dffe" name="a154a0ee960e14468858756919a83dffe"></a>
 static bool&#160;</td><td class="memItemRight" valign="bottom"><b>HasInstance</b><code> [get]</code></td></tr>
-<tr class="memdesc:a154a0ee960e14468858756919a83dffe"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns weather the <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html" title="A singleton monobehaviour that is the core of the FlowEnt library. Hold the main update method and a ...">FlowEntController</a> has an instance or not. <br /></td></tr>
 <tr class="separator:a154a0ee960e14468858756919a83dffe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a25e835c9b4b35236696f0d2c10a45522"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#a25e835c9b4b35236696f0d2c10a45522">TimeScale</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a25e835c9b4b35236696f0d2c10a45522"><td class="mdescLeft">&#160;</td><td class="mdescRight">The global time scale for all animations.  <a href="class_fried_synapse_1_1_flow_ent_1_1_flow_ent_controller.html#a25e835c9b4b35236696f0d2c10a45522">More...</a><br /></td></tr>
@@ -175,7 +208,7 @@ static bool&#160;</td><td class="memItemRight" valign="bottom"><b>HasInstance</b
 <tr class="separator:a7198e4903ae6a5a2395f08f9ac30dc45 inherit properties_interface_fried_synapse_1_1_flow_ent_1_1_i_controllable"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >A singleton monobehaviour that is the core of the <a class="el" href="namespace_fried_synapse_1_1_flow_ent.html">FlowEnt</a> library. Hold the main update method and a handful of global parameters. The script automatically attaches itself to an object in the scene called FlowEnt(created by this script). Make sure not to delete this object because the library will not work without this script attached to an object in the scene. </p>
+<div class="textblock"><p >A singleton that is the core of the <a class="el" href="namespace_fried_synapse_1_1_flow_ent.html">FlowEnt</a> library. Hold the main update method and a handful of global parameters. The script automatically attaches itself to an object in the scene called FlowEnt(created by this script). Make sure not to delete this object because the library will not work without this script attached to an object in the scene. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="adc53d95b9f99e628a07e168c96bfefc2" name="adc53d95b9f99e628a07e168c96bfefc2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adc53d95b9f99e628a07e168c96bfefc2">&#9670;&nbsp;</a></span>Pause()</h2>

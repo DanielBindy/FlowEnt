@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['abstractanimation_0',['AbstractAnimation',['../class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#ab54106274ca9f553922cad30da8a827e',1,'FriedSynapse.FlowEnt.AbstractAnimation.AbstractAnimation(IUpdateController updateController)'],['../class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a95b6b62cb96f7f7205890425c0daae01',1,'FriedSynapse.FlowEnt.AbstractAnimation.AbstractAnimation()']]],
+  ['abstractanimation_0',['AbstractAnimation',['../class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html#a95b6b62cb96f7f7205890425c0daae01',1,'FriedSynapse::FlowEnt::AbstractAnimation']]],
   ['abstractanimationoptions_1',['AbstractAnimationOptions',['../class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options.html#aa17f9423ed224aaef51e53aca6cd98b1',1,'FriedSynapse::FlowEnt::AbstractAnimationOptions']]],
   ['alpha_2',['Alpha',['../class_fried_synapse_1_1_flow_ent_1_1_canvas_group_motion_extensions.html#aa8167c64223a593c405161951b560860',1,'FriedSynapse::FlowEnt::CanvasGroupMotionExtensions']]],
   ['alpha_3c_20tgraphic_20_3e_3',['Alpha&lt; TGraphic &gt;',['../class_fried_synapse_1_1_flow_ent_1_1_graphic_motion_extensions.html#ae04fd91267b39b1cce56d175a2415271',1,'FriedSynapse::FlowEnt::GraphicMotionExtensions']]],

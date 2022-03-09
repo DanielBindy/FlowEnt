@@ -101,7 +101,6 @@ $(document).ready(function(){initNavTree('class_fried_synapse_1_1_flow_ent_1_1_e
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="#properties">Properties</a> &#124;
 <a href="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer&lt; TAnimation, TAnimationBuilder &gt; Class Template Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
@@ -111,19 +110,20 @@ $(document).ready(function(){initNavTree('class_fried_synapse_1_1_flow_ent_1_1_e
 Inheritance diagram for FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer&lt; TAnimation, TAnimationBuilder &gt;:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.png" alt=""/>
- </div></div>
+  <img src="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer.png" usemap="#FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer_3C_20TAnimation_2C_20TAnimationBuilder_20_3E_map" alt=""/>
+  <map id="FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer_3C_20TAnimation_2C_20TAnimationBuilder_20_3E_map" name="FriedSynapse.FlowEnt.Editor.AbstractAnimationBuilderPropertyDrawer_3C_20TAnimation_2C_20TAnimationBuilder_20_3E_map">
+<area href="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer.html" alt="FriedSynapse.FlowEnt.Editor.PropertyDrawer&lt; AbstractAnimationBuilderPropertyDrawer&lt; TAnimation, TAnimationBuilder &gt;.Data &gt;" shape="rect" coords="0,0,756,24"/>
+<area href="interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html" alt="FriedSynapse.FlowEnt.Editor.ICrudable&lt; TAnimationBuilder &gt;" shape="rect" coords="766,0,1522,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer_1_1_icon.html">Icon</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer_1_1_data.html">Data</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad4d512b60a6d43126b0fa6752fa65e84"><td class="memItemLeft" align="right" valign="top"><a id="ad4d512b60a6d43126b0fa6752fa65e84" name="ad4d512b60a6d43126b0fa6752fa65e84"></a>
-virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>Reset</b> ()</td></tr>
-<tr class="separator:ad4d512b60a6d43126b0fa6752fa65e84"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e69828aae7620af1222b59cd8e99a53"><td class="memItemLeft" align="right" valign="top"><a id="a5e69828aae7620af1222b59cd8e99a53" name="a5e69828aae7620af1222b59cd8e99a53"></a>
 override float&#160;</td><td class="memItemRight" valign="bottom"><b>GetPropertyHeight</b> (SerializedProperty property, GUIContent label)</td></tr>
 <tr class="separator:a5e69828aae7620af1222b59cd8e99a53"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,33 +139,35 @@ abstract void&#160;</td><td class="memItemRight" valign="bottom"><b>DrawControls
 <tr class="memitem:adeb455d8cac7b3d6f74a4ae6fa839687"><td class="memItemLeft" align="right" valign="top"><a id="adeb455d8cac7b3d6f74a4ae6fa839687" name="adeb455d8cac7b3d6f74a4ae6fa839687"></a>
 abstract TAnimation&#160;</td><td class="memItemRight" valign="bottom"><b>Build</b> (SerializedProperty property)</td></tr>
 <tr class="separator:adeb455d8cac7b3d6f74a4ae6fa839687"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a26e555d0c7f178390c95bf8c7296e82b"><td class="memItemLeft" align="right" valign="top"><a id="a26e555d0c7f178390c95bf8c7296e82b" name="a26e555d0c7f178390c95bf8c7296e82b"></a>
-abstract void&#160;</td><td class="memItemRight" valign="bottom"><b>OnAnimationUpdated</b> (float t)</td></tr>
-<tr class="separator:a26e555d0c7f178390c95bf8c7296e82b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae39c378bd66a9a3021f497e4d37863e9"><td class="memItemLeft" align="right" valign="top"><a id="ae39c378bd66a9a3021f497e4d37863e9" name="ae39c378bd66a9a3021f497e4d37863e9"></a>
+abstract void&#160;</td><td class="memItemRight" valign="bottom"><b>OnAnimationUpdated</b> (<a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_builder_property_drawer_1_1_data.html">Data</a> data, float t)</td></tr>
+<tr class="separator:ae39c378bd66a9a3021f497e4d37863e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa0564942336ac5be10f20bd03d378b85"><td class="memItemLeft" align="right" valign="top"><a id="aa0564942336ac5be10f20bd03d378b85" name="aa0564942336ac5be10f20bd03d378b85"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>StartPreview</b> (SerializedProperty property)</td></tr>
 <tr class="separator:aa0564942336ac5be10f20bd03d378b85"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32c0d58db1700a32270e1ed30fb3045f"><td class="memItemLeft" align="right" valign="top"><a id="a32c0d58db1700a32270e1ed30fb3045f" name="a32c0d58db1700a32270e1ed30fb3045f"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>DrawControlButtons</b> (Rect position, SerializedProperty property)</td></tr>
-<tr class="separator:a32c0d58db1700a32270e1ed30fb3045f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:aefe6cf70e27cfdee4c3b7cca94a9d206"><td class="memItemLeft" align="right" valign="top"><a id="aefe6cf70e27cfdee4c3b7cca94a9d206" name="aefe6cf70e27cfdee4c3b7cca94a9d206"></a>
-TAnimation&#160;</td><td class="memItemRight" valign="bottom"><b>previewAnimation</b></td></tr>
-<tr class="separator:aefe6cf70e27cfdee4c3b7cca94a9d206"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6da6e9af7d2f12971c76ec86f73314d1"><td class="memItemLeft" align="right" valign="top"><a id="a6da6e9af7d2f12971c76ec86f73314d1" name="a6da6e9af7d2f12971c76ec86f73314d1"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DrawControlButtons</b> (Rect position, SerializedProperty property)</td></tr>
+<tr class="separator:a6da6e9af7d2f12971c76ec86f73314d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer')"><img src="closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer.html">FriedSynapse.FlowEnt.Editor.PropertyDrawer&lt; AbstractAnimationBuilderPropertyDrawer&lt; TAnimation, TAnimationBuilder &gt;.Data &gt;</a></td></tr>
+<tr class="memitem:a1fbcf555a6bf7edefdc26418bfdccf69 inherit pro_methods_class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer"><td class="memItemLeft" align="right" valign="top"><a id="a1fbcf555a6bf7edefdc26418bfdccf69" name="a1fbcf555a6bf7edefdc26418bfdccf69"></a>
+TData&#160;</td><td class="memItemRight" valign="bottom"><b>GetData</b> (string propertyPath)</td></tr>
+<tr class="separator:a1fbcf555a6bf7edefdc26418bfdccf69 inherit pro_methods_class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9826554bc0931df1803e442bf02e8979 inherit pro_methods_class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer"><td class="memItemLeft" align="right" valign="top"><a id="a9826554bc0931df1803e442bf02e8979" name="a9826554bc0931df1803e442bf02e8979"></a>
+TData&#160;</td><td class="memItemRight" valign="bottom"><b>GetData</b> (SerializedProperty property)</td></tr>
+<tr class="separator:a9826554bc0931df1803e442bf02e8979 inherit pro_methods_class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
-<tr class="memitem:a71625b359a1fe1d2960d5821073aaac5"><td class="memItemLeft" align="right" valign="top"><a id="a71625b359a1fe1d2960d5821073aaac5" name="a71625b359a1fe1d2960d5821073aaac5"></a>
-<a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_abstract_animation.html">AbstractAnimation</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PreviewAnimation</b><code> [get]</code></td></tr>
-<tr class="separator:a71625b359a1fe1d2960d5821073aaac5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ed3310c6f1f78b00430803c7c9037ef"><td class="memItemLeft" align="right" valign="top"><a id="a7ed3310c6f1f78b00430803c7c9037ef" name="a7ed3310c6f1f78b00430803c7c9037ef"></a>
-SerializedObject&#160;</td><td class="memItemRight" valign="bottom"><b>SerializedObject</b><code> [get]</code></td></tr>
-<tr class="separator:a7ed3310c6f1f78b00430803c7c9037ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47ddd00a3de342741fd2e09eb876e6f3"><td class="memItemLeft" align="right" valign="top"><a id="a47ddd00a3de342741fd2e09eb876e6f3" name="a47ddd00a3de342741fd2e09eb876e6f3"></a>
-virtual bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsInPreview</b><code> [get]</code></td></tr>
-<tr class="separator:a47ddd00a3de342741fd2e09eb876e6f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeefab916982bfef7dfc1b4f8f6583d2d"><td class="memItemLeft" align="right" valign="top"><a id="aeefab916982bfef7dfc1b4f8f6583d2d" name="aeefab916982bfef7dfc1b4f8f6583d2d"></a>
+virtual List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>VisibleProperties</b><code> [get]</code></td></tr>
+<tr class="separator:aeefab916982bfef7dfc1b4f8f6583d2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa636a0e7867629d1fb02f4a339940e3d"><td class="memItemLeft" align="right" valign="top"><a id="aa636a0e7867629d1fb02f4a339940e3d" name="aa636a0e7867629d1fb02f4a339940e3d"></a>
+TAnimationBuilder&#160;</td><td class="memItemRight" valign="bottom"><b>Clipboard</b><code> [get, set]</code></td></tr>
+<tr class="separator:aa636a0e7867629d1fb02f4a339940e3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header properties_interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable"><td colspan="2" onclick="javascript:toggleInherit('properties_interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable')"><img src="closed.png" alt="-"/>&#160;Properties inherited from <a class="el" href="interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html">FriedSynapse.FlowEnt.Editor.ICrudable&lt; TAnimationBuilder &gt;</a></td></tr>
+<tr class="memitem:a04afeeefebcfdcbefa5abde6bb0e7b9b inherit properties_interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable"><td class="memItemLeft" align="right" valign="top"><a id="a04afeeefebcfdcbefa5abde6bb0e7b9b" name="a04afeeefebcfdcbefa5abde6bb0e7b9b"></a>
+T&#160;</td><td class="memItemRight" valign="bottom"><b>Clipboard</b><code> [get, set]</code></td></tr>
+<tr class="separator:a04afeeefebcfdcbefa5abde6bb0e7b9b inherit properties_interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
