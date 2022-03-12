@@ -403,6 +403,7 @@ var hierarchy =
       ] ],
       [ "FriedSynapse.FlowEnt.AbstractFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_abstract_flow_awaiter.html", [
         [ "FriedSynapse.FlowEnt.CallbackFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_callback_flow_awaiter.html", null ],
+        [ "FriedSynapse.FlowEnt.DelayFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_delay_flow_awaiter.html", null ],
         [ "FriedSynapse.FlowEnt.TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", null ]
       ] ],
       [ "FriedSynapse.FlowEnt.AbstractStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_abstract_start_helper.html", [

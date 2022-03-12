@@ -34,6 +34,7 @@ var namespace_fried_synapse_1_1_flow_ent =
     [ "CommonExtensions", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_common_extensions" ],
     [ "CubicSpline", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline.html", "class_fried_synapse_1_1_flow_ent_1_1_cubic_spline" ],
     [ "DelayedStartHelper", "class_fried_synapse_1_1_flow_ent_1_1_delayed_start_helper.html", null ],
+    [ "DelayFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_delay_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_delay_flow_awaiter" ],
     [ "Echo", "class_fried_synapse_1_1_flow_ent_1_1_echo.html", "class_fried_synapse_1_1_flow_ent_1_1_echo" ],
     [ "EchoBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html", null ],
     [ "EchoEvents", "class_fried_synapse_1_1_flow_ent_1_1_echo_events.html", "class_fried_synapse_1_1_flow_ent_1_1_echo_events" ],
