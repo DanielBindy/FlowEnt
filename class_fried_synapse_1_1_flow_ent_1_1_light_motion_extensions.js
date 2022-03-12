@@ -10,9 +10,6 @@ var class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions =
     [ "Range", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#a9d04cd280d3bd547ea9a70ab3fd0ca13", null ],
     [ "RangeTo", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#ae4ddb5b79c7311942c76ad58e287b9e0", null ],
     [ "RangeTo", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#ac21d676c7c1efbfd84dcb280c617f43c", null ],
-    [ "ShadowRadius", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#aef991920aa71cc013b0ff8ddc58e5214", null ],
-    [ "ShadowRadiusTo", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#a4928ad1e0ffbfd0821aba31a33e8012c", null ],
-    [ "ShadowRadiusTo", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#ac80c312029e50f749a83367a6573c77a", null ],
     [ "ShadowStrength", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#ab644c2617e74853a398d48307f556628", null ],
     [ "ShadowStrengthTo", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#a2ebfa8d45f7aee749f43f9ba09e3e304", null ],
     [ "ShadowStrengthTo", "class_fried_synapse_1_1_flow_ent_1_1_light_motion_extensions.html#a6e82eeb977cba77cb8c8cb41b4e33a7e", null ]

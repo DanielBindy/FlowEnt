@@ -171,7 +171,6 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractFloatMotion< Light >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.IntensityMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.RangeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_range_motion.html", null ],
-      [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ShadowRadiusMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_radius_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ShadowStrengthMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_strength_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractFloatMotion< Material >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_float_motion.html", [
@@ -232,7 +231,6 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ColorMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.IntensityMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.RangeMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_range_motion_1_1_from_to_builder.html", null ],
-      [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ShadowRadiusMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_radius_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ShadowStrengthMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_strength_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.AlphaMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_alpha_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_motion_1_1_from_to_builder.html", null ],
@@ -425,7 +423,6 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ColorMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.IntensityMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_intensity_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.RangeMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_range_motion_1_1_value_builder.html", null ],
-      [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ShadowRadiusMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_radius_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ShadowStrengthMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_shadow_strength_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.AlphaMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_alpha_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_motion_1_1_value_builder.html", null ],
