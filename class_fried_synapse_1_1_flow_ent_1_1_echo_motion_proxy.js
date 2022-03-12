@@ -9,6 +9,7 @@ var class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy =
     [ "OnCompleted", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a6b86dcb1f2b2f0afdc4dc0c37bfde4da", null ],
     [ "OnCompleting", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#ab128bbf3d1a750d6ace9a9521f1d29a0", null ],
     [ "OnLoopCompleted", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a064abba1431d2f1cd6e45ea83b88eeff", null ],
+    [ "OnLoopStarted", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#af37ed1a59e6a9b9d454868fa099a048a", null ],
     [ "OnStarted", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#a03c347c0520ad04ef4a7aeae7b458c9f", null ],
     [ "OnStarting", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#ac930be569cf970c48e717a4766b461c6", null ],
     [ "OnUpdated", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy.html#aa2df55856aff90552910b043036f874d", null ],

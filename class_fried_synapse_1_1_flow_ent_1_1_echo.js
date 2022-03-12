@@ -10,6 +10,7 @@ var class_fried_synapse_1_1_flow_ent_1_1_echo =
     [ "OnCompleted", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#a8b8e45a9a62c4e17417f8ada2a3ed6b0", null ],
     [ "OnCompleting", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#aa927c0d2d74d3c99c0cb8f135a92f476", null ],
     [ "OnLoopCompleted", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#a50274fa2ab3fa1434ce3acb0e70f4e6e", null ],
+    [ "OnLoopStarted", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#a9746eda07d41fe3815fb066d03c2def8", null ],
     [ "OnStarted", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#a8303f69dbff52bc73b50662de058bbff", null ],
     [ "OnStarting", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#aca79f34c1607f999d09dc56dfa0bcad3", null ],
     [ "OnUpdated", "class_fried_synapse_1_1_flow_ent_1_1_echo.html#a4be42ecb62b1150d6029a6397d0408fe", null ],

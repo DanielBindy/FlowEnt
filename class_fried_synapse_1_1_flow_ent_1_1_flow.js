@@ -11,6 +11,7 @@ var class_fried_synapse_1_1_flow_ent_1_1_flow =
     [ "Conditional", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#aa27af90874906727beb8fdd980b58a2a", null ],
     [ "OnCompleted", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#a2dc1555108b3066168b6ed6bf0f0326f", null ],
     [ "OnLoopCompleted", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#a0955920ca60409f0c00568dbaa9c3d19", null ],
+    [ "OnLoopStarted", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#a6cc88b95cfe3a0467688e73a058ec612", null ],
     [ "OnStarted", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#ad8ad8a63d910fcc5a86efe369e815461", null ],
     [ "OnUpdated", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#af373946d54cd460233be13fceca152df", null ],
     [ "Pause", "class_fried_synapse_1_1_flow_ent_1_1_flow.html#a7b7166718159daff87a7c4781f6e292b", null ],

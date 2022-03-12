@@ -157,6 +157,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a7df7ba283609f2121c8e990ec6912027"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acd32c080975db91aac3ecca121ae4152"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html">TweenMotionProxy</a>&lt; TItem &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html#acd32c080975db91aac3ecca121ae4152">OnUpdated</a> (Action&lt; float &gt; callback)</td></tr>
 <tr class="separator:acd32c080975db91aac3ecca121ae4152"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2313886217748c12dd2e0c17224de60"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html">TweenMotionProxy</a>&lt; TItem &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html#ac2313886217748c12dd2e0c17224de60">OnLoopStarted</a> (Action&lt; int?&gt; callback)</td></tr>
+<tr class="separator:ac2313886217748c12dd2e0c17224de60"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d092a9b47f7050d44fc9363b24f8c5e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html">TweenMotionProxy</a>&lt; TItem &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html#a4d092a9b47f7050d44fc9363b24f8c5e">OnLoopCompleted</a> (Action&lt; int?&gt; callback)</td></tr>
 <tr class="separator:a4d092a9b47f7050d44fc9363b24f8c5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75b8d792246135a095f0829b7d6c3645"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html">TweenMotionProxy</a>&lt; TItem &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html#a75b8d792246135a095f0829b7d6c3645">OnCompleting</a> (Action callback)</td></tr>
@@ -481,6 +483,31 @@ TItem&#160;</td><td class="memItemRight" valign="bottom"><b>Item</b><code> [get]
       </table>
 </div><div class="memdoc">
 <p >Adds an event called when a loop completed. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">callback</td><td>The event. The parameter represents the number of loops left. If there are infinite loops it'll send a null param.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="ac2313886217748c12dd2e0c17224de60" name="ac2313886217748c12dd2e0c17224de60"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2313886217748c12dd2e0c17224de60">&#9670;&nbsp;</a></span>OnLoopStarted()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html">TweenMotionProxy</a>&lt; TItem &gt; <a class="el" href="class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy.html">FriedSynapse.FlowEnt.TweenMotionProxy</a>&lt; TItem &gt;.OnLoopStarted </td>
+          <td>(</td>
+          <td class="paramtype">Action&lt; int?&gt;&#160;</td>
+          <td class="paramname"><em>callback</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p >Adds an event called when a loop started. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">callback</td><td>The event. The parameter represents the number of loops left. If there are infinite loops it'll send a null param.</td></tr>
