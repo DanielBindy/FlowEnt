@@ -111,6 +111,9 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_property_id_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< SpriteRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_motion.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.ColorMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_motion.html", null ]
     ] ],
@@ -240,6 +243,8 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies.RotateQuaternionMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_rotate_quaternion_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies.RotateVectorMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_rotate_vector_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies.VelocityMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_velocity_motion_1_1_from_to_builder.html", null ],
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_motion_1_1_from_to_builder.html", null ],
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.SizeMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_size_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveLocalVectorMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_vector_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveVectorMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_vector_motion_1_1_from_to_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateLocalQuaternionMotion.FromToBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_quaternion_motion_1_1_from_to_builder.html", null ],
@@ -251,7 +256,8 @@ var hierarchy =
     [ "AbstractGradientBuilder", null, [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorGradientMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_gradient_motion_1_1_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ColorGradientMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_gradient_motion_1_1_builder.html", null ],
-      [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorGradientMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_gradient_motion_1_1_builder.html", null ]
+      [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorGradientMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_gradient_motion_1_1_builder.html", null ],
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorGradientMotion.Builder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_gradient_motion_1_1_builder.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractGradientMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_gradient_motion.html", null ]
@@ -262,6 +268,9 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractGradientMotion< Material >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_gradient_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.ColorGradientPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_color_gradient_property_id_motion.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractGradientMotion< SpriteRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_gradient_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractGradientMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.ColorGradientMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_gradient_motion.html", null ]
@@ -432,6 +441,8 @@ var hierarchy =
       [ "FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies.RotateQuaternionMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_rotate_quaternion_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies.RotateVectorMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_rotate_vector_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies.VelocityMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies_1_1_velocity_motion_1_1_value_builder.html", null ],
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_motion_1_1_value_builder.html", null ],
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.SizeMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_size_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveLocalVectorMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_local_vector_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.MoveVectorMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_move_vector_motion_1_1_value_builder.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Transforms.RotateLocalQuaternionMotion.ValueBuilder", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_rotate_local_quaternion_motion_1_1_value_builder.html", null ],
@@ -500,6 +511,9 @@ var hierarchy =
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractVector2Motion< RectTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_vector2_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.UI.RectTransforms.ScaleSizeDeltaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_scale_size_delta_motion.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractVector2Motion< SpriteRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_vector2_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.SizeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_size_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractVector3Motion< RectTransform >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_vector3_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.UI.RectTransforms.MoveAnchoredPositionVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms_1_1_move_anchored_position_vector_motion.html", null ]
@@ -835,6 +849,7 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.RigidbodyMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_rigidbody_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.SplineExtensions", "class_fried_synapse_1_1_flow_ent_1_1_spline_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.SplineFactory", "class_fried_synapse_1_1_flow_ent_1_1_spline_factory.html", null ],
+    [ "FriedSynapse.FlowEnt.SpriteRendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_sprite_renderer_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", null ],
     [ "FriedSynapse.FlowEnt.TweenMotionProxyArray< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_tween_motion_proxy_array.html", null ],
     [ "FriedSynapse.FlowEnt.UpdatablesFastList< AbstractUpdatable >", "class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html", null ],

@@ -18,8 +18,9 @@ var searchData=
   ['particlesystems_15',['ParticleSystems',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_particle_systems.html',1,'FriedSynapse::FlowEnt::Motions::Echo']]],
   ['recttransforms_16',['RectTransforms',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_rect_transforms.html',1,'FriedSynapse::FlowEnt::Motions::Tween::UI']]],
   ['rigidbodies_17',['Rigidbodies',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_rigidbodies.html',1,'FriedSynapse.FlowEnt.Motions.Echo.Rigidbodies'],['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_rigidbodies.html',1,'FriedSynapse.FlowEnt.Motions.Tween.Rigidbodies']]],
-  ['transforms_18',['Transforms',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms.html',1,'FriedSynapse.FlowEnt.Motions.Echo.Transforms'],['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms.html',1,'FriedSynapse.FlowEnt.Motions.Tween.Transforms']]],
-  ['tween_19',['Tween',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween.html',1,'FriedSynapse::FlowEnt::Motions']]],
-  ['ui_20',['UI',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i.html',1,'FriedSynapse::FlowEnt::Motions::Tween']]],
-  ['values_21',['Values',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values.html',1,'FriedSynapse::FlowEnt::Motions::Tween']]]
+  ['spriterenderers_18',['SpriteRenderers',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers.html',1,'FriedSynapse::FlowEnt::Motions::Tween']]],
+  ['transforms_19',['Transforms',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_transforms.html',1,'FriedSynapse.FlowEnt.Motions.Echo.Transforms'],['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms.html',1,'FriedSynapse.FlowEnt.Motions.Tween.Transforms']]],
+  ['tween_20',['Tween',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween.html',1,'FriedSynapse::FlowEnt::Motions']]],
+  ['ui_21',['UI',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i.html',1,'FriedSynapse::FlowEnt::Motions::Tween']]],
+  ['values_22',['Values',['../namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_values.html',1,'FriedSynapse::FlowEnt::Motions::Tween']]]
 ];
