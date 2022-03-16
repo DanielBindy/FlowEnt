@@ -73,6 +73,7 @@ var annotated_dup =
           [ "Icon", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_icon.html", null ],
           [ "ICrudable", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_crudable.html", null ],
           [ "IPreviewable", "interface_fried_synapse_1_1_flow_ent_1_1_editor_1_1_i_previewable.html", null ],
+          [ "MotionNameGetter", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_motion_name_getter.html", null ],
           [ "MotionPickerWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_motion_picker_window.html", null ],
           [ "PreviewController", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_preview_controller.html", null ],
           [ "PropertyDrawer", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_property_drawer.html", null ],

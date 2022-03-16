@@ -1,5 +1,7 @@
 var NAVTREEINDEX8 =
 {
+"class_fried_synapse_1_1_flow_ent_1_1_updatables_fast_list.html":[1,0,0,0,98],
+"class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html":[1,0,0,0,99],
 "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html":[0,0,0,0,99],
 "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html#a0b595db79c7cd36b74407fd50fe8f05e":[0,0,0,0,99,8],
 "class_fried_synapse_1_1_flow_ent_1_1_value_motion_extensions.html#a0b595db79c7cd36b74407fd50fe8f05e":[1,0,0,0,99,8],
