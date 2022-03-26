@@ -220,6 +220,12 @@ var annotated_dup =
               [ "ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_motion" ],
               [ "SizeMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_size_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_size_motion" ]
             ] ],
+            [ "TrailRenderers", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers.html", [
+              [ "ColorLinearMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_color_linear_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_color_linear_motion" ],
+              [ "GradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_gradient_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_gradient_motion" ],
+              [ "MoveVertexVectorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_move_vertex_vector_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_move_vertex_vector_motion" ],
+              [ "WidthLinearMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_width_linear_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_trail_renderers_1_1_width_linear_motion" ]
+            ] ],
             [ "Transforms", "namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms.html", [
               [ "LookAtTransformMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_transform_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_transform_motion" ],
               [ "LookAtVector3Motion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_vector3_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_transforms_1_1_look_at_vector3_motion" ],
@@ -369,6 +375,7 @@ var annotated_dup =
         [ "SplineFactory", "class_fried_synapse_1_1_flow_ent_1_1_spline_factory.html", null ],
         [ "SpriteRendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_sprite_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_sprite_renderer_motion_extensions" ],
         [ "TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter" ],
+        [ "TrailRendererExtensions", "class_fried_synapse_1_1_flow_ent_1_1_trail_renderer_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_trail_renderer_extensions" ],
         [ "TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions" ],
         [ "Tween", "class_fried_synapse_1_1_flow_ent_1_1_tween.html", "class_fried_synapse_1_1_flow_ent_1_1_tween" ],
         [ "TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ],

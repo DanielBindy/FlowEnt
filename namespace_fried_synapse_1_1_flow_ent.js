@@ -93,6 +93,7 @@ var namespace_fried_synapse_1_1_flow_ent =
     [ "SplineFactory", "class_fried_synapse_1_1_flow_ent_1_1_spline_factory.html", null ],
     [ "SpriteRendererMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_sprite_renderer_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_sprite_renderer_motion_extensions" ],
     [ "TaskFlowAwaiter", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter.html", "class_fried_synapse_1_1_flow_ent_1_1_task_flow_awaiter" ],
+    [ "TrailRendererExtensions", "class_fried_synapse_1_1_flow_ent_1_1_trail_renderer_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_trail_renderer_extensions" ],
     [ "TransformMotionExtensions", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions.html", "class_fried_synapse_1_1_flow_ent_1_1_transform_motion_extensions" ],
     [ "Tween", "class_fried_synapse_1_1_flow_ent_1_1_tween.html", "class_fried_synapse_1_1_flow_ent_1_1_tween" ],
     [ "TweenBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_builder.html", null ],
