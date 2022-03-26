@@ -13,7 +13,7 @@ var namespace_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract =
     [ "AbstractIntMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_int_motion.html", null ],
     [ "AbstractQuaternionMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_quaternion_motion.html", null ],
     [ "AbstractRectMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rect_motion.html", null ],
-    [ "AbstractRotateAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rotate_axis_motion.html", null ],
+    [ "AbstractRotateAxisMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rotate_axis_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_rotate_axis_motion" ],
     [ "AbstractSplineMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_spline_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_spline_motion" ],
     [ "AbstractStructValueMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_struct_value_motion.html", null ],
     [ "AbstractTweenMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion.html", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_tween_motion" ],
