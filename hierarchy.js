@@ -3,12 +3,12 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractAlphaMotion< CanvasGroup >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.UI.CanvasGroups.AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_canvas_groups_1_1_alpha_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractAlphaMotion< Graphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_alpha_motion.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractAlphaMotion< Material >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.AlphaMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_alpha_motion.html", null ],
       [ "FriedSynapse.FlowEnt.Motions.Tween.Materials.AlphaPropertyIdMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_materials_1_1_alpha_property_id_motion.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractAlphaMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_alpha_motion.html", [
-      [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.AlphaMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_alpha_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractAnimationBuilder< Echo >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_builder.html", [
       [ "FriedSynapse.FlowEnt.EchoBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_builder.html", null ]
@@ -113,6 +113,9 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorGradientMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_gradient_motion.html", null ]
     ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorGradientMotion< Graphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_gradient_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_gradient_motion.html", null ]
+    ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorGradientMotion< Light >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_gradient_motion.html", null ]
     ] ],
@@ -123,14 +126,14 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorGradientMotion< SpriteRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_gradient_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorGradientMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_gradient_motion.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorGradientMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_gradient_motion.html", [
-      [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.ColorGradientMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_gradient_motion.html", null ]
-    ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorLinearMotion< LineRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_linear_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.LineRenderers.ColorLinearMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_line_renderers_1_1_color_linear_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< Camera >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Cameras.BackgroundColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_cameras_1_1_background_color_motion.html", null ]
+    ] ],
+    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< Graphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
+      [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_motion.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< Light >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.Lights.ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_lights_1_1_color_motion.html", null ]
@@ -141,9 +144,6 @@ var hierarchy =
     ] ],
     [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< SpriteRenderer >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
       [ "FriedSynapse.FlowEnt.Motions.Tween.SpriteRenderers.ColorMotion", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_sprite_renderers_1_1_color_motion.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.Motions.Tween.Abstract.AbstractColorMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_abstract_1_1_abstract_color_motion.html", [
-      [ "FriedSynapse.FlowEnt.Motions.Tween.UI.Graphics.ColorMotion< TGraphic >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_tween_1_1_u_i_1_1_graphics_1_1_color_motion.html", null ]
     ] ],
     [ "AbstractEchoMotion", null, [
       [ "FriedSynapse.FlowEnt.Motions.Echo.Abstract.AbstractEchoMotion< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_motions_1_1_echo_1_1_abstract_1_1_abstract_echo_motion.html", [
