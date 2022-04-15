@@ -51,14 +51,8 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.AbstractAnimationEventsBuilder< TweenEvents >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_events_builder.html", [
       [ "FriedSynapse.FlowEnt.TweenEventsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_tween_events_builder.html", null ]
     ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< EchoInspectorWindow, Echo >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", [
-      [ "FriedSynapse.FlowEnt.Editor.EchoInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_inspector_window.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< FlowInspectorWindow, Flow >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", [
-      [ "FriedSynapse.FlowEnt.Editor.FlowInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_inspector_window.html", null ]
-    ] ],
-    [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< TweenInspectorWindow, Tween >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", [
-      [ "FriedSynapse.FlowEnt.Editor.TweenInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_inspector_window.html", null ]
+    [ "AbstractAnimationInspectorWindow", null, [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< TWindow, TAnimation >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", null ]
     ] ],
     [ "FriedSynapse.FlowEnt.AbstractAnimationOptionsBuilder< EchoOptions >", "class_fried_synapse_1_1_flow_ent_1_1_abstract_animation_options_builder.html", [
       [ "FriedSynapse.FlowEnt.EchoOptionsBuilder", "class_fried_synapse_1_1_flow_ent_1_1_echo_options_builder.html", null ]
@@ -633,6 +627,15 @@ var hierarchy =
     [ "FriedSynapse.FlowEnt.EchoMotionProxyArray< TItem >", "class_fried_synapse_1_1_flow_ent_1_1_echo_motion_proxy_array.html", null ],
     [ "FriedSynapse.FlowEnt.Editor.EditorExtensions", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_editor_extensions.html", null ],
     [ "EditorWindow", null, [
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< EchoInspectorWindow, Echo >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", [
+        [ "FriedSynapse.FlowEnt.Editor.EchoInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_echo_inspector_window.html", null ]
+      ] ],
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< FlowInspectorWindow, Flow >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", [
+        [ "FriedSynapse.FlowEnt.Editor.FlowInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_inspector_window.html", null ]
+      ] ],
+      [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< TweenInspectorWindow, Tween >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", [
+        [ "FriedSynapse.FlowEnt.Editor.TweenInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_tween_inspector_window.html", null ]
+      ] ],
       [ "FriedSynapse.FlowEnt.Editor.AbstractAnimationInspectorWindow< TWindow, TAnimation >", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_abstract_animation_inspector_window.html", null ],
       [ "FriedSynapse.FlowEnt.Editor.FlowEntInspectorWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_ent_inspector_window.html", null ],
       [ "FriedSynapse.FlowEnt.Editor.FlowEntSettingsWindow", "class_fried_synapse_1_1_flow_ent_1_1_editor_1_1_flow_ent_settings_window.html", null ],
